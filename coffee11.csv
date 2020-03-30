@@ -12,7 +12,7 @@ ethiopia,"snnp/kaffa zone,gimbowereda",diamond enterprise plc,50,metad agricultu
 ethiopia,oromia,fahem coffee plantation,300,metad agricultural development plc,2014,8.17,8.67,8.25,8.5,7.75,8.17,10,10,10,8.58,88.08,0.1,0,0,others,1,1855,1955,1905,60,bluish-green,88.08,,Natural / Dry
 united states,antioquia,alfredo de jesús lópez pérez,10,almacafé,2014,8.25,8.42,8.17,8.33,8.08,8.17,10,10,10,8.5,87.92,0,0,0,others,0,1872,1872,1872,1,bluish-green,87.92,Other,Washed / Wet
 united states,antioquia,jorge walter restrepo,10,almacafé,2014,8.08,8.67,8.33,8.42,8,8.08,10,10,10,8.33,87.92,0,0,0,others,0,1943,1943,1943,1,bluish-green,87.92,Other,Washed / Wet
-united states (hawaii),kona,"robert, sharon, arianna wood",1,specialty coffee association,2010,8.33,8.42,8.08,8.25,8.25,8,10,10,10,8.58,87.92,0,0,0,others,2,609.6,609.6,609.6,1,bluish-green,87.92,,Other
+united states (hawaii),kona,"robert, sharon, arianna wood",1,specialty coffee association,2010,8.33,8.42,8.08,8.25,8.25,8,10,10,10,8.58,87.92,0,0,0,others,2,426.72,609.6,731.52,1,bluish-green,87.92,,Other
 ethiopia,oromiya,bazen agricultural & industrial dev't plc,300,ethiopia commodity exchange,2010,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10,9.33,8.5,87.83,0.05,0,0,others,2,1570,1700,1635,60,bluish-green,87.83,,Other
 united states,antioquia,maría leticia diosa,10,almacafé,2014,8,8.5,8.58,8.17,8.17,8,10,10,10,8.17,87.58,0,0,0,others,0,2080,2080,2080,1,bluish-green,87.58,Other,Washed / Wet
 indonesia,sulawesi,p.t. toarco jaya,1,specialty coffee association,2010,8.33,8.25,7.83,7.75,8.5,8.42,10,10,10,8.33,87.42,0.03,0,0,others,0,1200,1800,1500,2,bluish-green,87.42,,Other
@@ -35,8 +35,8 @@ brazil,vale da grama,homero texeira de macedo junior,29,nucoffee,2011,8.5,8.17,8
 costa rica,west and central valley,exclusive coffees s.a.,250,specialty coffee association of costa rica,2015,8.17,7.83,8,8.08,7.83,8,10,10,10,8.42,86.33,0,0,0,bluish-green,0,1300,1300,1300,2,bluish-green,86.33,Caturra,Washed / Wet
 ethiopia,oromia,haider abamecha abadiko,320,metad agricultural development plc,2014,8,8.08,7.92,8,8.08,8.08,10,10,10,8.08,86.25,0.1,0,0,green,3,1750,1800,1775,60,green,86.25,,Natural / Dry
 kenya,muranga,kangunu,320,kenya coffee traders association,2013,8.08,8,8,8.25,7.92,7.92,10,10,10,8.08,86.25,0.12,0,0,bluish-green,1,1800,1800,1800,1,bluish-green,86.25,SL34,Washed / Wet
-united states (hawaii),kona,others,10,specialty coffee association,2012,8.08,8.17,8,7.92,7.92,7.83,10,10,10,8.33,86.25,0,1,0,others,4,others,others,others,100,bluish-green,86.25,Hawaiian Kona,Natural / Dry
-united states (hawaii),kona,kona pacific farmers co-op,25,specialty coffee association,2010,8.25,8.42,8.08,7.75,7.67,7.83,10,10,10,8.25,86.25,0,2,0,others,1,others,others,others,100,bluish-green,86.25,,Other
+united states (hawaii),kona,others,10,specialty coffee association,2012,8.08,8.17,8,7.92,7.92,7.83,10,10,10,8.33,86.25,0,1,0,others,4,426.72,609.6,731.52,100,bluish-green,86.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,kona pacific farmers co-op,25,specialty coffee association,2010,8.25,8.42,8.08,7.75,7.67,7.83,10,10,10,8.25,86.25,0,2,0,others,1,426.72,609.6,731.52,100,bluish-green,86.25,,Other
 ethiopia,yirgacheffe,contact name | ato teshome belamo,300,ethiopia commodity exchange,2009,7.92,7.75,8.08,8.08,8.08,8.17,10,10,10,8.17,86.25,0.1,0,0,others,2,others,others,others,6,bluish-green,86.25,,Other
 united states,antioquia,hugo sepúlveda montoya,10,almacafé,2014,7.67,8.17,8,8,8.17,8.08,10,10,10,8.08,86.17,0,0,0,others,0,1941,1941,1941,1,bluish-green,86.17,Other,Washed / Wet
 thailand,chiang rai,itdp,53,specialty coffee association,2012,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,8.42,86.17,0.1,1,0,green,9,1300,1300,1300,1,green,86.17,Caturra,Washed / Wet
@@ -50,7 +50,7 @@ colombia,tolima,others,1,specialty coffee association,2013,7.75,7.92,7.83,8.08,8
 kenya,kiambu,others,1,specialty coffee association,2013,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,8.17,86,0.11,0,0,green,1,1520,2200,1860,1,green,86,SL28,Washed / Wet
 uganda,"sipi, mt elgon",kawacom,1,africa fine coffee association,2012,8.25,8,7.83,8.08,8,7.92,10,10,10,7.92,86,0.1,0,0,bluish-green,0,1400,1900,1650,60,bluish-green,86,Other,Washed / Wet
 ethiopia,sidamo,sidama coffee farmers coop. union,300,ethiopia commodity exchange,2009,7.75,8.08,8,8.25,8,8,10,10,10,7.92,86,0.01,0,0,others,4,1500,2000,1750,6,bluish-green,86,,Other
-united states (hawaii),kona,hula daddy kona coffee,1,specialty coffee association,2009,8.33,8.17,7.75,8,7.75,7.83,10,10,10,8.17,86,0,0,0,others,0,426.72,426.72,426.72,2,bluish-green,86,,Other
+united states (hawaii),kona,hula daddy kona coffee,1,specialty coffee association,2009,8.33,8.17,7.75,8,7.75,7.83,10,10,10,8.17,86,0,0,0,others,0,426.72,609.6,731.52,2,bluish-green,86,,Other
 guatemala,nuevo oriente,margarita avila de nuyens,80,asociacion nacional del café,2016,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,8,85.92,0.1,0,1,green,3,others,others,others,69,green,85.92,Bourbon,Washed / Wet
 uganda,eastern,kawacom (u)ltd,1,uganda coffee development authority,2013,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,8,85.92,0.12,0,0,green,0,1400,1900,1650,60,green,85.92,SL14,Natural / Dry
 colombia,huila,others,275,almacafé,2013,8,8,8,8.17,7.83,8,10,10,10,7.92,85.92,0,1,0,bluish-green,0,1800,1800,1800,70,bluish-green,85.92,Caturra,Washed / Wet
@@ -63,7 +63,7 @@ peru,cajamarca,others,280,specialty coffee association,2013,8,8,8,8.08,7.92,7.75
 papua new guinea,eastern highlands province,"colbran coffeelands, ltd.",7,specialty coffee association,2012,8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,7.92,85.75,0.12,0,0,bluish-green,1,1700,1700,1700,60,bluish-green,85.75,,Washed / Wet
 el salvador,apaneca,aida batlle,275,specialty coffee association,2013,7.92,8.17,8,7.92,7.75,7.83,10,10,10,8,85.58,0.1,0,0,bluish-green,3,1500,1500,1500,2,bluish-green,85.58,Bourbon,Washed / Wet
 el salvador,"ataco, apaneca - ilamatepec mountain range",oscar roberto murgas linares,19,specialty coffee association,2012,7.83,8,8,7.75,7.92,8.17,10,10,10,7.92,85.58,0.11,0,0,others,0,1300,1400,1350,1,bluish-green,85.58,Bourbon,Semi-washed / Semi-pulped
-united states (hawaii),kona,others,8,specialty coffee association,2012,7.83,8,7.92,7.75,8.08,8,10,10,10,8,85.58,0,0,0,others,1,others,others,others,100,bluish-green,85.58,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,8,specialty coffee association,2012,7.83,8,7.92,7.75,8.08,8,10,10,10,8,85.58,0,0,0,others,1,426.72,609.6,731.52,100,bluish-green,85.58,Hawaiian Kona,Natural / Dry
 panama,boquete,lamastus,100,blossom valley international,2014,8,7.75,7.83,7.83,7.67,8.58,10,10,10,7.83,85.5,0.09,2,0,others,2,1680,1680,1680,60,bluish-green,85.5,Caturra,Natural / Dry
 kenya,kirinyaga,others,16,blossom valley international,2014,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,8,85.5,0.1,0,0,green,3,1900,1900,1900,60,green,85.5,SL28,Natural / Dry
 ethiopia,oromia,assefa belay coffee producer,320,metad agricultural development plc,2015,7.83,8,7.83,7.92,7.83,8.08,10,10,10,8,85.5,0.12,0,0,green,7,1800,2000,1900,60,green,85.5,Other,Natural / Dry
@@ -71,7 +71,7 @@ uganda,bulambuli eastern region,kyagalanyi coffee ltd,320,uganda coffee developm
 guatemala,huehuetenango,asociacion de permacultores de cuilco (santos lopez mejia),250,asociacion nacional del café,2013,8,7.83,7.67,8.33,7.83,8,10,10,10,7.83,85.5,0.11,0,0,green,1,1706.88,1755.648,1731.264,69,green,85.5,Bourbon,Washed / Wet
 ethiopia,oromia,assefa belay coffee producer,320,metad agricultural development plc,2015,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,8.08,85.42,0.1,0,0,green,18,1800,2000,1900,60,green,85.42,,Washed / Wet
 uganda,kapchorwa,chesiyo farmer group,150,uganda coffee development authority,2013,8.08,8,7.83,7.67,8,7.83,10,10,10,8,85.42,0.12,0,0,green,5,1950,1950,1950,60,green,85.42,SL14,Washed / Wet
-united states (hawaii),kona,others,8,specialty coffee association,2012,7.92,7.92,7.75,7.92,7.75,7.92,10,10,10,8.25,85.42,0,4,0,others,6,others,others,others,100,bluish-green,85.42,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,8,specialty coffee association,2012,7.92,7.92,7.75,7.92,7.75,7.92,10,10,10,8.25,85.42,0,4,0,others,6,426.72,609.6,731.52,100,bluish-green,85.42,Hawaiian Kona,Natural / Dry
 brazil,south of minas,josé vagner ribeiro junqueira,5,nucoffee,2011,8,8,8,7.67,7.75,8,10,10,10,8,85.42,0.11,0,0,bluish-green,1,1250,1250,1250,60,bluish-green,85.42,Bourbon,Semi-washed / Semi-pulped
 el salvador,apaneca,j. hill y cia sa de cv,2,specialty coffee association,2009,8.08,7.83,7.83,8.08,7.83,7.83,10,10,10,7.92,85.42,0.01,0,0,others,0,1400,1400,1400,1,bluish-green,85.42,,Other
 china,yunnan,pu'er city longke coffee co.ltd,3,yunnan coffee exchange,2015,8,8,8,7.83,7.83,7.75,10,10,10,7.92,85.33,0.1,0,0,green,0,1700,1700,1700,60,green,85.33,Catimor,Natural / Dry
@@ -90,11 +90,11 @@ guatemala,huehuetenango,coop. hoja blanca - fedecocagua,250,specialty coffee ass
 ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",seid damtew coffee planation,320,metad agricultural development plc,2016,7.75,8,7.58,8,8,7.92,10,10,10,7.83,85.08,0.11,0,1,green,8,others,others,others,19200,green,85.08,Other,Natural / Dry
 colombia,pasto,jose albeiro gomez / luis jaber realpe,250,almacafé,2015,8.17,7.83,7.58,8.08,8,7.75,10,10,10,7.67,85.08,0,0,0,others,0,2560,2560,2560,70,bluish-green,85.08,Caturra,Natural / Dry
 ethiopia,aricha,bnt,100,specialty coffee association,2014,8.42,8,7.42,8,7.92,7.92,9.33,10,10,8.08,85.08,0.1,2,0,green,7,1700,1700,1700,60,green,85.08,,Natural / Dry
-united states (hawaii),kona,others,12,specialty coffee association,2014,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,7.92,85.08,0.11,2,0,bluish-green,2,others,others,others,100,bluish-green,85.08,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,12,specialty coffee association,2014,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,7.92,85.08,0.11,2,0,bluish-green,2,426.72,609.6,731.52,100,bluish-green,85.08,Hawaiian Kona,Natural / Dry
 colombia,cundinamarca,orlando ortiz /wilson ortiz/gilberto acosta,250,almacafé,2012,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,85.08,0.11,0,0,green,8,2136,2136,2136,70,green,85.08,Caturra,Natural / Dry
-united states (hawaii),kona,kona pacific farmers cooperative,13,specialty coffee association,2010,8.08,8.17,7.92,8,8.08,8,9.33,9.33,10,8.17,85.08,0.01,1,0,others,7,others,others,others,100,bluish-green,85.08,,Other
+united states (hawaii),kona,kona pacific farmers cooperative,13,specialty coffee association,2010,8.08,8.17,7.92,8,8.08,8,9.33,9.33,10,8.17,85.08,0.01,1,0,others,7,426.72,609.6,731.52,100,bluish-green,85.08,,Other
 ethiopia,sidamo,exporter name | muluneh kaka | phone: 0114390290,360,ethiopia commodity exchange,2010,7.67,8,7.83,8,7.92,7.83,10,10,10,7.83,85.08,0,0,0,others,5,others,others,others,6,bluish-green,85.08,,Other
-united states (hawaii),kona,others,27,specialty coffee association,others,7.5,7.92,8.25,7.83,7.92,7.75,10,10,10,7.92,85.08,0,0,0,others,0,others,others,others,0,bluish-green,85.08,,Other
+united states (hawaii),kona,others,27,specialty coffee association,others,7.5,7.92,8.25,7.83,7.92,7.75,10,10,10,7.92,85.08,0,0,0,others,0,426.72,609.6,731.52,0,bluish-green,85.08,,Other
 uganda,eastern uganda,kyagalanyi coffee ltd,200,uganda coffee development authority,2016,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,8,85,0.11,0,0,green,1,1800,1800,1800,60,green,85,SL14,Washed / Wet
 colombia,huila,la plata,135,almacafé,2016,8,7.92,7.75,7.92,7.75,7.83,10,10,10,7.83,85,0,0,0,green,3,others,others,others,70,green,85,Caturra,Washed / Wet
 costa rica,tarrazu,manuel montero,36,specialty coffee association,2016,7.83,8,7.58,7.92,7.92,7.83,10,10,10,7.92,85,0.12,1,1,green,1,1900,1900,1900,46,green,85,Catuai,Washed / Wet
@@ -103,7 +103,7 @@ kenya,others,others,170,kenya coffee traders association,2015,8.17,7.83,7.92,7.7
 kenya,central kenya,others,38,kenya coffee traders association,2012,7.75,7.83,7.75,8.08,8,7.75,10,10,10,7.83,85,0,0,0,green,5,1580,1580,1580,60,green,85,SL34,Washed / Wet
 brazil,grama valley,idalina m. de andrade ferreira,31,nucoffee,2012,8,8,7.83,7.83,7.67,7.67,10,10,10,8,85,0.12,0,0,green,3,1100,1100,1100,60,green,85,Mundo Novo,Natural / Dry
 mexico,mexico,finca kassandra,1,specialty coffee association,2010,7.92,8.17,7.75,8.08,7.42,7.83,10,10,10,7.83,85,0,0,0,others,0,1400,1400,1400,1,bluish-green,85,Pacamara,Other
-united states (hawaii),kona,others,15,specialty coffee association,others,7.75,7.92,7.75,7.75,8,8,10,10,10,7.83,85,0,0,0,others,1,others,others,others,100,bluish-green,85,,Other
+united states (hawaii),kona,others,15,specialty coffee association,others,7.75,7.92,7.75,7.75,8,8,10,10,10,7.83,85,0,0,0,others,1,426.72,609.6,731.52,100,bluish-green,85,,Other
 guatemala,"chuva, san marcos",federico weller,275,specialty coffee association,2009,7.83,8.08,7.67,8,7.75,7.67,10,10,10,8,85,0.04,0,0,others,1,1066.8,1584.96,1325.88,69,bluish-green,85,,Other
 colombia,huila,la plata,243,almacafé,2016,7.92,7.92,7.67,7.83,7.92,7.83,10,10,10,7.83,84.92,0,1,6,others,2,others,others,others,70,bluish-green,84.92,Caturra,Washed / Wet
 colombia,huila,la plata,252,almacafé,2015,7.92,7.83,7.75,7.83,7.75,8,10,10,10,7.83,84.92,0.12,0,0,green,1,1600,1950,1775,70,green,84.92,Caturra,Washed / Wet
@@ -116,7 +116,7 @@ brazil,south of minas,ricardo luiz ferreira,10,nucoffee,2011,8,8,7.75,8,7.5,7.75
 kenya,others,others,320,specialty coffee association,2009,8,7.67,7.83,8.17,7.92,7.75,10,10,10,7.58,84.92,0.06,1,0,others,9,others,others,others,60,bluish-green,84.92,,Other
 taiwan,"dongshan dist., tainan city 臺南市東山區",wang chao yung 王超永,10,specialty coffee association,2016,7.92,7.58,7.83,7.83,7.83,7.83,10,10,10,8,84.83,0,0,0,green,0,350,350,350,20,green,84.83,Typica,Natural / Dry
 uganda,eastern,sipi organic coffee project,1,uganda coffee development authority,2013,7.75,7.92,7.67,7.67,8.25,7.75,10,10,10,7.83,84.83,0.12,0,0,green,1,1400,1900,1650,60,green,84.83,SL14,Natural / Dry
-united states (hawaii),kona,others,14,specialty coffee association,2012,7.67,7.75,7.75,7.75,7.83,8,10,10,10,8.08,84.83,0,3,0,others,15,others,others,others,100,bluish-green,84.83,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,14,specialty coffee association,2012,7.67,7.75,7.75,7.75,7.83,8,10,10,10,8.08,84.83,0,3,0,others,15,426.72,609.6,731.52,100,bluish-green,84.83,Hawaiian Kona,Natural / Dry
 ethiopia,sidamo,sidama coffee farmers coop. union,300,ethiopia commodity exchange,2009,7.75,7.92,7.83,7.92,7.75,7.67,10,10,10,8,84.83,0.1,0,0,others,2,1500,2000,1750,6,bluish-green,84.83,,Other
 ethiopia,sidamo,sidama coffee farmers coop. union,300,ethiopia commodity exchange,2009,7.42,7.92,7.92,8,7.83,7.83,10,10,10,7.92,84.83,0.1,0,0,others,4,1500,2000,1750,6,bluish-green,84.83,,Other
 thailand,thailand,matsuzawa coffee,50,specialty coffee institute of asia,2015,7.75,7.75,7.75,7.75,8,7.75,10,10,10,8,84.75,0.12,0,0,green,0,others,others,others,50,green,84.75,Caturra,Pulped natural / honey
@@ -175,7 +175,7 @@ indonesia,sumatra brastagi,surbakti,200,specialty coffee association,2017,7.67,7
 colombia,pitalito,franklin dussan,304,almacafé,2015,7.92,7.83,7.75,7.67,7.92,7.67,10,10,10,7.67,84.42,0,0,0,green,1,others,others,others,35,green,84.42,Caturra,Natural / Dry
 colombia,huila,la plata,275,almacafé,2014,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,7.75,84.42,0,0,0,green,3,1600,1950,1775,70,green,84.42,Caturra,Washed / Wet
 taiwan,"mountain ali, taiwan",kao ming lee,2,specialty coffee association,2012,7.83,7.83,7.75,8,7.5,7.75,10,10,10,7.75,84.42,0.11,0,0,bluish-green,0,1200,1200,1200,2,bluish-green,84.42,Typica,Washed / Wet
-united states (hawaii),kona,others,5,specialty coffee association,2012,7.92,7.92,7.5,7.83,7.5,7.92,10,10,10,7.83,84.42,0.11,0,0,bluish-green,1,others,others,others,100,bluish-green,84.42,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,5,specialty coffee association,2012,7.92,7.92,7.5,7.83,7.5,7.92,10,10,10,7.83,84.42,0.11,0,0,bluish-green,1,426.72,609.6,731.52,100,bluish-green,84.42,Hawaiian Kona,Natural / Dry
 mexico,tapachula,maria amalia guadalupe toriello elorza,69,amecafe,2012,7.75,7.92,7.75,7.67,7.83,7.67,10,10,10,7.83,84.42,0.12,2,0,others,4,900,900,900,1,bluish-green,84.42,Pacamara,Washed / Wet
 ethiopia,limu,"contact name | egziabhez mezgebe, gmt industrial plc",360,ethiopia commodity exchange,2009,7.5,7.75,7.83,7.92,7.92,7.75,10,10,10,7.75,84.42,0.2,0,0,others,2,others,others,others,6,bluish-green,84.42,,Other
 kenya,nyeri,mutheka,150,kenya coffee traders association,2017,7.33,7.58,7.83,7.75,7.75,7.92,10,10,10,8.17,84.33,0.11,0,0,green,4,1800,1800,1800,60,green,84.33,SL28,Washed / Wet
@@ -204,7 +204,7 @@ colombia,huila,franklin dussan/andres rodriguez/hipolito torres,250,almacafé,20
 "tanzania, united republic of",mbeya,taylor winch (t) ltd,65,africa fine coffee association,2014,7.83,7.75,7.75,7.75,7.67,7.75,10,10,10,7.75,84.25,0.12,0,0,green,2,1600,1600,1600,60,green,84.25,Other,Washed / Wet
 guatemala,oriente,amilcar lapola,250,asociacion nacional del café,2014,7.83,7.83,7.5,7.92,7.58,7.75,10,10,10,7.83,84.25,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,84.25,Bourbon,Other
 colombia,cauca,others,250,almacafé,2013,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,7.83,84.25,0.11,0,0,green,2,1700,1700,1700,70,green,84.25,Caturra,Washed / Wet
-united states (hawaii),kona,others,7,specialty coffee association,2012,7.33,7.92,7.92,7.92,7.92,8.08,10,10,9.33,7.83,84.25,0.11,1,0,bluish-green,1,others,others,others,100,bluish-green,84.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,7,specialty coffee association,2012,7.33,7.92,7.92,7.92,7.92,8.08,10,10,9.33,7.83,84.25,0.11,1,0,bluish-green,1,426.72,609.6,731.52,100,bluish-green,84.25,Hawaiian Kona,Natural / Dry
 mexico,san pedro cotzilnam,jesus salazar velasco,10,amecafe,2012,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,7.75,84.25,0.12,0,0,green,1,1450,1450,1450,1,green,84.25,Typica,Semi-washed / Semi-pulped
 mexico,veracruz,manuel herrera juarez,20,amecafe,2012,7.83,7.83,7.75,7.67,7.83,7.58,10,10,10,7.75,84.25,0.12,0,0,green,0,1170,1170,1170,1,green,84.25,Bourbon,Washed / Wet
 mexico,"la concordia, chiapas",ernst pohlenz aguilar,250,amecafe,2012,7.83,7.92,7.67,7.75,7.5,7.75,10,10,10,7.83,84.25,0.1,0,0,bluish-green,4,1400,1400,1400,1,bluish-green,84.25,Bourbon,Washed / Wet
@@ -236,7 +236,7 @@ taiwan,"nanxi dist., tainan city 臺南市楠西區",chang yu liang 張玉良,10
 guatemala,oriente,margarita avila de nuyens,50,asociacion nacional del café,2016,8,7.75,7.5,7.58,7.92,7.67,10,10,10,7.67,84.08,0.1,0,0,green,4,others,others,others,69,green,84.08,Bourbon,Washed / Wet
 colombia,huila,la plata,200,almacafé,2014,7.92,7.75,7.67,7.75,7.67,7.67,10,10,10,7.67,84.08,0,0,0,others,2,1600,1950,1775,70,bluish-green,84.08,Caturra,Washed / Wet
 guatemala,"aldea xeucalvitz, ixil region, quiche department",asociacion de productores de cafe de la region ixil,1,specialty coffee association,2014,7.58,7.75,7.67,8,7.75,7.67,10,10,10,7.67,84.08,0.1,0,0,bluish-green,10,1550,1550,1550,2,bluish-green,84.08,Bourbon,Washed / Wet
-united states (hawaii),kona,others,14,specialty coffee association,2012,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10,10,8,84.08,0.11,1,0,green,9,others,others,others,100,green,84.08,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,14,specialty coffee association,2012,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10,10,8,84.08,0.11,1,0,green,9,426.72,609.6,731.52,100,green,84.08,Hawaiian Kona,Natural / Dry
 mexico,santo domingo cacalotepec,andres martinez leon,300,amecafe,2012,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,7.83,84.08,0.11,1,0,green,10,1480,1480,1480,1,green,84.08,Typica,Washed / Wet
 ethiopia,"ethiopia, sidamo",others,100,specialty coffee association,2012,7.92,7.92,7.83,8,7.92,7.92,10,10,8.67,7.92,84.08,0.09,0,0,others,15,1800,1800,1800,60,bluish-green,84.08,Other,Natural / Dry
 costa rica,others,others,275,specialty coffee association,2017,7.58,7.75,7.67,7.75,7.83,7.75,10,10,10,7.67,84,0.08,1,2,others,13,others,others,others,150,bluish-green,84,,Washed / Wet
@@ -307,12 +307,12 @@ colombia,huila,la plata,100,almacafé,2014,7.67,7.67,7.67,7.92,7.5,7.67,10,10,10
 colombia,huila,others,250,almacafé,2014,7.67,7.42,7.42,7.42,8,8.33,10,10,10,7.5,83.75,0,0,0,green,3,1500,1600,1550,70,green,83.75,Other,Washed / Wet
 colombia,huila,others,250,almacafé,2013,7.58,7.67,7.75,7.67,7.67,7.67,10,10,10,7.75,83.75,0,0,0,bluish-green,1,1750,1750,1750,70,bluish-green,83.75,Caturra,Washed / Wet
 colombia,huila,others,275,almacafé,2013,7.75,7.67,7.75,7.58,7.42,8,10,10,10,7.58,83.75,0.11,0,0,green,3,1750,1750,1750,70,green,83.75,Caturra,Washed / Wet
-united states (hawaii),kona,others,12,specialty coffee association,2013,7.25,7.42,7.67,7.58,7.83,8.25,10,10,10,7.75,83.75,0,0,0,bluish-green,0,others,others,others,100,bluish-green,83.75,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,12,specialty coffee association,2013,7.25,7.42,7.67,7.58,7.83,8.25,10,10,10,7.75,83.75,0,0,0,bluish-green,0,426.72,609.6,731.52,100,bluish-green,83.75,Hawaiian Kona,Natural / Dry
 mexico,"huazalingo, hidalgo","martinez magdalena, agapita",10,amecafe,2012,7.83,7.58,7.58,7.5,7.75,7.67,10,10,10,7.83,83.75,0.13,5,0,others,5,700,700,700,1,bluish-green,83.75,Caturra,Natural / Dry
 guatemala,quetzaltenango,several producres,250,specialty coffee association,2012,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,7.75,83.75,0.11,0,0,bluish-green,1,1300,1300,1300,3,bluish-green,83.75,Caturra,Washed / Wet
 colombia,cauca,carlos peneche/jesus peneche/flor chacón,275,almacafé,2011,7.83,7.83,7.58,7.33,7.42,7.67,10,10,10,8.08,83.75,0.1,0,0,others,1,1600,1600,1600,70,bluish-green,83.75,,Other
 colombia,cundinamarca,others,250,almacafé,2018,7.75,7.67,7.25,7.25,7.58,8.5,10,10,10,7.75,83.75,0.06,0,0,others,1,1600,1600,1600,70,bluish-green,83.75,,Other
-united states (hawaii),kona,others,4,specialty coffee association,others,7.83,7.67,7.75,7.67,7.58,7.5,10,10,10,7.75,83.75,0,0,0,others,0,others,others,others,1,bluish-green,83.75,,Other
+united states (hawaii),kona,others,4,specialty coffee association,others,7.83,7.67,7.75,7.67,7.58,7.5,10,10,10,7.75,83.75,0,0,0,others,0,426.72,609.6,731.52,1,bluish-green,83.75,,Other
 brazil,south of minas,ipanema agricola s.a,320,brazil specialty coffee association,2017,7.67,7.83,7.5,7.67,7.67,7.5,10,10,10,7.83,83.67,0.11,0,0,green,2,890,890,890,60,green,83.67,Bourbon,Natural / Dry
 kenya,meru county,nchoroiboro / kiriani factory,200,kenya coffee traders association,2017,8.08,7.67,7.67,7.58,7.25,7.67,10,10,10,7.75,83.67,0.11,0,0,bluish-green,0,1700,1700,1700,60,bluish-green,83.67,SL28,Washed / Wet
 honduras,comayagua,reinerio zepeda,285,instituto hondureño del café,2016,7.5,7.5,7.67,7.67,8,8,10,10,10,7.33,83.67,0.1,0,0,green,2,1400,1400,1400,69,green,83.67,Caturra,Washed / Wet
@@ -333,7 +333,7 @@ guatemala,oriente,agropecuaria quiagral,250,asociacion nacional del café,2012,7
 mexico,xicotepec de juarez,juan luis ortega carballo,48,amecafe,2012,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,7.58,83.67,0.12,4,0,green,11,1100,1100,1100,1,green,83.67,Typica,Washed / Wet
 indonesia,east java,pt. perkebunan nusantara xii,10,specialty coffee association of indonesia,2012,8.17,7.67,7.58,7.58,7.42,7.67,10,10,10,7.58,83.67,0.12,0,0,green,0,1200,1600,1400,60,green,83.67,Typica,Washed / Wet
 guatemala,"sacatepequez, guatemala","siembras vision, s.a",250,asociacion nacional del café,2012,7.67,7.5,7.33,8,7.67,7.67,10,10,10,7.83,83.67,0.1,0,0,green,0,1524,1524,1524,69,green,83.67,Caturra,Washed / Wet
-united states (hawaii),others,others,3,specialty coffee association,others,7.75,8,7.92,8.08,7.75,8,9.33,9.33,9.33,8.17,83.67,0,0,0,others,0,others,others,others,100,bluish-green,83.67,,Other
+united states (hawaii),others,others,3,specialty coffee association,others,7.75,8,7.92,8.08,7.75,8,9.33,9.33,9.33,8.17,83.67,0,0,0,others,0,426.72,609.6,731.52,100,bluish-green,83.67,,Other
 brazil,south of minas,ipanema agricola s.a,320,brazil specialty coffee association,2017,7.58,7.67,7.58,7.58,7.67,7.58,10,10,10,7.92,83.58,0.11,0,0,green,5,890,890,890,60,green,83.58,Bourbon,Natural / Dry
 guatemala,huehuetenango,juan ramirez morales,275,asociacion nacional del café,2016,7.75,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.58,0.11,0,1,green,0,1128.3696,1128.3696,1128.3696,69,green,83.58,Caturra,Washed / Wet
 colombia,huila,la plata,275,almacafé,2016,7.75,7.75,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.11,0,0,green,4,others,others,others,70,green,83.58,Caturra,Washed / Wet
@@ -372,7 +372,7 @@ mexico,totutla,gabriel bernard rivas ross,15,amecafe,2012,7.75,7.67,7.67,7.75,7.
 guatemala,atitlan,rnp santo tomas pachuj / kanematsu corporation,275,asociacion nacional del café,2012,7.83,7.5,7.5,8,7.67,7.5,10,10,10,7.5,83.5,0.1,0,0,green,5,1524,1524,1524,69,green,83.5,Caturra,Washed / Wet
 colombia,huila,la plata,175,almacafé,2012,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,7.67,83.5,0.11,0,0,green,0,1600,1950,1775,70,green,83.5,Caturra,Washed / Wet
 guatemala,oriente,conquistamorito,250,specialty coffee association,2012,7.5,7.5,7.75,7.5,8,7.67,10,10,10,7.58,83.5,0,3,0,green,12,1402.08,1402.08,1402.08,2,green,83.5,Bourbon,Washed / Wet
-united states (hawaii),others,others,14,specialty coffee association,others,7.5,7.67,7.58,7.92,7.58,7.67,10,10,10,7.58,83.5,0.01,0,0,others,0,others,others,others,100,bluish-green,83.5,,Other
+united states (hawaii),others,others,14,specialty coffee association,others,7.5,7.67,7.58,7.92,7.58,7.67,10,10,10,7.58,83.5,0.01,0,0,others,0,426.72,609.6,731.52,100,bluish-green,83.5,,Other
 indonesia,bondowoso,pt. perkebunan nusantara xii,10,specialty coffee association of indonesia,2010,7.83,7.58,7.58,7.58,7.75,7.58,10,10,10,7.58,83.5,0,0,0,others,0,1600,1600,1600,60,bluish-green,83.5,,Other
 colombia,huila,franklin dussan / hipolito torres,300,almacafé,2017,7.5,7.58,7.58,7.5,7.75,7.83,10,10,10,7.67,83.42,0,0,2,green,1,439,439,439,29,green,83.42,Caturra,Washed / Wet
 guatemala,san marcos,jorge leal,50,asociacion nacional del café,2017,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,7.67,83.42,0.1,0,0,green,3,1700,1700,1700,69,green,83.42,Bourbon,Washed / Wet
@@ -389,10 +389,10 @@ colombia,huila,others,250,almacafé,2014,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10,1
 guatemala,oriente,amilcar lapola,250,asociacion nacional del café,2013,7.75,7.83,7.33,7.83,7.5,7.67,10,10,10,7.5,83.42,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,83.42,Bourbon,Natural / Dry
 guatemala,antigua,"siembras visión, s.a.",250,asociacion nacional del café,2014,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,7.58,83.42,0.1,0,0,green,2,1500,1500,1500,69,green,83.42,Caturra,Washed / Wet
 guatemala,oriente,roberto monterroso,250,asociacion nacional del café,2013,7.67,7.5,7.75,7.42,7.75,7.75,10,10,10,7.58,83.42,0.11,0,0,green,0,1310.64,1310.64,1310.64,69,green,83.42,Bourbon,Washed / Wet
-united states (hawaii),kona,others,13,specialty coffee association,2012,7.42,7.75,7.67,7.58,7.67,7.67,10,10,10,7.67,83.42,0,0,0,green,2,others,others,others,100,green,83.42,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,13,specialty coffee association,2012,7.42,7.75,7.67,7.58,7.67,7.67,10,10,10,7.67,83.42,0,0,0,green,2,426.72,609.6,731.52,100,green,83.42,Hawaiian Kona,Natural / Dry
 colombia,cundinamarca,exportadora de cafe condor,250,almacafé,2012,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,7.67,83.42,0.11,0,0,green,2,1450,1450,1450,70,green,83.42,Caturra,Washed / Wet
 colombia,huila,others,250,almacafé,others,7.58,7.58,7.58,7.67,7.75,7.67,10,10,10,7.58,83.42,0.1,1,0,others,3,others,others,others,70,bluish-green,83.42,,Other
-united states (hawaii),kona,kona pacific farmers co-op,12,specialty coffee association,2010,7.5,7.92,7.42,7.67,7.83,7.58,10,10,10,7.5,83.42,0.01,0,0,others,0,others,others,others,60,bluish-green,83.42,,Other
+united states (hawaii),kona,kona pacific farmers co-op,12,specialty coffee association,2010,7.5,7.92,7.42,7.67,7.83,7.58,10,10,10,7.5,83.42,0.01,0,0,others,0,426.72,609.6,731.52,60,bluish-green,83.42,,Other
 thailand,others,doi tung development project,4,specialty coffee association,others,7.58,7.25,7.5,7.92,7.92,7.42,10,10,10,7.83,83.42,0.11,0,0,others,0,others,others,others,1,bluish-green,83.42,Peaberry,Other
 mexico,nayarit,"productores de cafe de el cuarenteno, s. de p.r. de r.l",6,specialty coffee association,2016,7.25,7.88,7.38,7.63,7.5,8.75,9,10,10,8,83.38,0.09,2,0,others,4,900,1200,1050,6,bluish-green,83.38,,Other
 colombia,huila,various,275,almacafé,2016,7.75,7.5,7.75,7.58,7.58,7.58,10,10,10,7.58,83.33,0,0,1,others,0,1650,1650,1650,70,bluish-green,83.33,Caturra,Washed / Wet
@@ -404,17 +404,17 @@ colombia,santander,varios,275,almacafé,2015,7.67,7.75,7.42,7.83,7.83,7.42,10,10
 "tanzania, united republic of",arusha,mondul coffee estate,10,africa fine coffee association,2014,7.75,7.58,7.67,7.58,7.58,7.58,10,10,10,7.58,83.33,0.12,0,0,green,6,1700,1700,1700,60,green,83.33,Other,Semi-washed / Semi-pulped
 mexico,veracruz,josé luis andrade sandara,200,amecafe,2013,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,7.67,83.33,0.12,0,0,green,0,1100,1100,1100,1,green,83.33,Other,Washed / Wet
 costa rica,san ramon,several,250,specialty coffee association,2014,7.67,7.67,7.42,7.67,7.67,7.67,10,10,10,7.58,83.33,0.12,0,0,green,3,1300,1300,1300,3,green,83.33,Caturra,Washed / Wet
-united states (hawaii),kona,others,12,specialty coffee association,2014,7.83,7.58,7.83,7.67,7.92,8,9.33,10,9.33,7.83,83.33,0.11,0,0,bluish-green,1,others,others,others,100,bluish-green,83.33,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,12,specialty coffee association,2014,7.83,7.58,7.83,7.67,7.92,8,9.33,10,9.33,7.83,83.33,0.11,0,0,bluish-green,1,426.72,609.6,731.52,100,bluish-green,83.33,Hawaiian Kona,Natural / Dry
 costa rica,central valley,coricafe blend,250,specialty coffee association of costa rica,2013,7.5,7.67,7.67,7.5,7.83,7.17,10,10,10,8,83.33,0.11,0,0,green,3,1100,1300,1200,1,green,83.33,Catuai,Washed / Wet
 peru,others,others,280,specialty coffee association,2013,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10,10,7.5,83.33,0.12,0,0,green,5,others,others,others,5,green,83.33,,Washed / Wet
 haiti,"thiotte, haiti",coopcab,2,specialty coffee association,2012,7.58,7.5,7.67,7.5,7.83,7.42,10,10,10,7.83,83.33,0.11,0,0,green,4,1280.16,1280.16,1280.16,4,green,83.33,Typica,Washed / Wet
 colombia,pitalito,orlando ortiz / hipolito torres,250,almacafé,2013,7.67,7.67,7.5,7.67,7.92,7.42,10,10,10,7.5,83.33,0.11,0,0,green,1,1000,1000,1000,70,green,83.33,Caturra,Natural / Dry
 guatemala,oriente,luis rodriguez,250,asociacion nacional del café,2013,7.83,7.67,7.17,7.67,7.67,7.67,10,10,10,7.67,83.33,0.11,0,0,green,3,1310.64,1310.64,1310.64,69,green,83.33,Bourbon,Washed / Wet
-united states (hawaii),kona,others,7,specialty coffee association,2012,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10,10,7.83,83.33,0.1,0,0,bluish-green,4,others,others,others,100,bluish-green,83.33,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,7,specialty coffee association,2012,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10,10,7.83,83.33,0.1,0,0,bluish-green,4,426.72,609.6,731.52,100,bluish-green,83.33,Hawaiian Kona,Natural / Dry
 burundi,kayanza,others,220,specialty coffee association,2012,7.75,7.67,7.33,7.5,7.5,7.75,10,10,10,7.83,83.33,0,0,0,others,5,1880,1880,1880,60,bluish-green,83.33,Bourbon,Washed / Wet
 colombia,huila,condor,250,almacafé,2012,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,7.67,83.33,0,0,0,green,1,1750,1750,1750,70,green,83.33,Caturra,Washed / Wet
-united states (hawaii),kona,others,27,specialty coffee association,others,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10,9.33,7.92,83.33,0.01,0,0,others,0,others,others,others,100,bluish-green,83.33,,Other
-united states (hawaii),others,others,25,specialty coffee association,others,7.58,7.67,7.58,7.5,7.83,7.67,10,10,10,7.5,83.33,0,0,0,others,0,others,others,others,100,bluish-green,83.33,,Other
+united states (hawaii),kona,others,27,specialty coffee association,others,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10,9.33,7.92,83.33,0.01,0,0,others,0,426.72,609.6,731.52,100,bluish-green,83.33,,Other
+united states (hawaii),others,others,25,specialty coffee association,others,7.58,7.67,7.58,7.5,7.83,7.67,10,10,10,7.5,83.33,0,0,0,others,0,426.72,609.6,731.52,100,bluish-green,83.33,,Other
 mexico,sierra madre occidental,balbino ramirez flores,50,centro agroecológico del café a.c.,2017,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,7.67,83.25,0.11,0,0,bluish-green,0,1600,1600,1600,50,bluish-green,83.25,Typica,Washed / Wet
 costa rica,tarrazu,manuel montero,29,specialty coffee association,2016,7.5,7.5,7.83,7.5,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,green,0,1900,1900,1900,46,green,83.25,Catuai,Pulped natural / honey
 costa rica,tarrazu,coopellanobonito,275,specialty coffee association of costa rica,2015,7.83,7.5,7.42,7.67,7.5,7.67,10,10,10,7.67,83.25,0.11,0,0,others,0,others,others,others,69,bluish-green,83.25,,Washed / Wet
@@ -429,7 +429,7 @@ colombia,eje cafetero,others,250,almacafé,2014,7.58,7.58,7.5,7.58,7.58,7.75,10,
 guatemala,antigua,"siembras visión, s.a.",26,asociacion nacional del café,2014,7.5,7.67,7.58,7.67,7.67,7.5,10,10,10,7.67,83.25,0.1,0,0,green,1,1500,1500,1500,69,green,83.25,Caturra,Washed / Wet
 colombia,huila,others,275,almacafé,2013,7.83,7.5,7.67,7.33,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,green,1,1750,1750,1750,70,green,83.25,Caturra,Washed / Wet
 mexico,chiapas,vrios productores,200,amecafe,2013,7.58,7.75,7.5,7.5,7.58,7.58,10,10,10,7.75,83.25,0.12,0,0,green,6,1300,1300,1300,1,green,83.25,Bourbon,Washed / Wet
-united states (hawaii),kona,others,11,specialty coffee association,2012,7.58,7.75,7.83,8,8.08,7.67,9.33,10,9.33,7.67,83.25,0.11,0,0,bluish-green,4,others,others,others,100,bluish-green,83.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,11,specialty coffee association,2012,7.58,7.75,7.83,8,8.08,7.67,9.33,10,9.33,7.67,83.25,0.11,0,0,bluish-green,4,426.72,609.6,731.52,100,bluish-green,83.25,Hawaiian Kona,Natural / Dry
 mexico,veracruz,ernesto rodriguez luna,10,amecafe,2012,7.75,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.25,0.13,0,0,green,7,others,others,others,1,green,83.25,Mundo Novo,Washed / Wet
 mexico,fortín de las flores,modesto landeros flores,54,amecafe,2012,7.75,7.75,7.42,7.92,7.33,7.5,10,10,10,7.58,83.25,0.12,0,0,bluish-green,0,1000,1000,1000,1,bluish-green,83.25,Caturra,Washed / Wet
 guatemala,oriente,agropecuaria quiagral,250,asociacion nacional del café,2012,7.83,7.58,7.08,7.83,7.42,8.08,10,10,10,7.42,83.25,0.11,0,0,green,9,1310.64,1310.64,1310.64,1,green,83.25,Bourbon,Washed / Wet
@@ -460,7 +460,7 @@ colombia,others,unkown,1,specialty coffee association,2014,7.58,7.75,7.5,7.58,7.
 honduras,san marcos,nelson melgar melgar,275,instituto hondureño del café,2013,7.5,7.5,7.5,7.67,7.67,7.67,10,10,10,7.67,83.17,0.1,0,0,green,5,1450,1450,1450,1,green,83.17,Catuai,Natural / Dry
 honduras,comayagua,reynerio zepeda,275,instituto hondureño del café,2014,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,green,3,1350,1350,1350,1,green,83.17,Caturra,Natural / Dry
 guatemala,san marcos,"agricola nueva granada, s.a.",200,asociacion nacional del café,2014,7.33,7.83,7.17,8.17,7.33,7.67,10,10,10,7.67,83.17,0.09,0,0,green,1,1524,1524,1524,69,green,83.17,Catuai,Washed / Wet
-united states (hawaii),kona,others,6,specialty coffee association,2013,7.5,7.5,7.58,7.42,7.92,7.67,10,10,10,7.58,83.17,0.11,0,0,bluish-green,0,others,others,others,100,bluish-green,83.17,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,6,specialty coffee association,2013,7.5,7.5,7.58,7.42,7.92,7.67,10,10,10,7.58,83.17,0.11,0,0,bluish-green,0,426.72,609.6,731.52,100,bluish-green,83.17,Hawaiian Kona,Natural / Dry
 "tanzania, united republic of",kilimanjaro,others,300,tanzanian coffee board,2014,7.58,7.5,7.58,7.75,7.58,7.58,10,10,10,7.58,83.17,0.12,0,0,green,1,1800,1800,1800,1,green,83.17,Bourbon,Washed / Wet
 guatemala,oriente,roberto monterroso,250,asociacion nacional del café,2013,7.67,7.83,7.33,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,green,2,1310.64,1310.64,1310.64,69,green,83.17,Bourbon,Washed / Wet
 mexico,chiapas,margarito roblero vazquez,45,amecafe,2013,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,7.75,83.17,0.11,0,0,green,2,1500,1500,1500,1,green,83.17,Typica,Washed / Wet
@@ -485,12 +485,12 @@ taiwan,"dongshan dist., tainan city 臺南市東山區",tseng ju feng / kuo jun 
 brazil,chapadão de ferro (cerrado mineiro),others,300,brazil specialty coffee association,2015,7.42,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83.08,0.11,0,0,green,13,others,others,others,60,green,83.08,Mundo Novo,Natural / Dry
 brazil,south of minas,ipanema agrícola sa,300,specialty coffee association,2014,7.58,7.83,7.67,7.42,7.42,7.5,10,10,10,7.67,83.08,0,0,0,green,1,1200,1200,1200,2,green,83.08,Bourbon,Washed / Wet
 costa rica,central valley,varios,250,specialty coffee association of costa rica,2014,7.83,7.33,7.5,7.67,7.58,7.67,10,10,10,7.5,83.08,0.1,0,0,green,3,1200,1400,1300,1,green,83.08,Catuai,Washed / Wet
-united states (hawaii),kona,others,16,specialty coffee association,2013,7.33,7.75,7.58,7.33,7.83,7.67,10,10,10,7.58,83.08,0.12,0,0,bluish-green,8,others,others,others,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,16,specialty coffee association,2013,7.33,7.75,7.58,7.33,7.83,7.67,10,10,10,7.58,83.08,0.12,0,0,bluish-green,8,426.72,609.6,731.52,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
 taiwan,chiayi alishan 嘉義縣阿里山鄉,fang zheng lun 方政倫,50,blossom valley international,2013,7.75,7.75,7.5,7.5,7.5,7.5,10,10,10,7.58,83.08,0.11,0,0,others,0,1300,1300,1300,30,bluish-green,83.08,Typica,Other
-united states (hawaii),kona,others,6,specialty coffee association,2012,7.83,7.83,7.33,7.17,7.75,7.67,10,10,10,7.5,83.08,0.1,0,0,bluish-green,0,others,others,others,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,6,specialty coffee association,2012,7.83,7.83,7.33,7.17,7.75,7.67,10,10,10,7.5,83.08,0.1,0,0,bluish-green,0,426.72,609.6,731.52,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
 mexico,santa catarina juquila,maria luisa del carmen rojas narvaez,10,amecafe,2012,7.75,7.67,7.42,7.75,7.5,7.5,10,10,10,7.5,83.08,0.1,0,0,others,1,1400,1400,1400,1,bluish-green,83.08,Other,Washed / Wet
-united states (hawaii),kona,others,7,specialty coffee association,2012,7.67,7.58,7.5,7.67,7.92,8,9.33,9.33,10,8.08,83.08,0,1,0,others,4,others,others,others,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
-united states (hawaii),kona,others,6,specialty coffee association,2012,7.33,7.58,7.58,7.92,7.67,7.58,10,10,10,7.42,83.08,0.12,0,0,green,0,others,others,others,100,green,83.08,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,7,specialty coffee association,2012,7.67,7.58,7.5,7.67,7.92,8,9.33,9.33,10,8.08,83.08,0,1,0,others,4,426.72,609.6,731.52,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,6,specialty coffee association,2012,7.33,7.58,7.58,7.92,7.67,7.58,10,10,10,7.42,83.08,0.12,0,0,green,0,426.72,609.6,731.52,100,green,83.08,Hawaiian Kona,Washed / Wet
 colombia,huila,"grupo monserrate, la plata",275,almacafé,others,7.33,7.33,7.33,7.58,7.25,8.08,10,10,10,8.17,83.08,0.01,0,0,others,0,1600,1950,1775,70,bluish-green,83.08,Caturra,Other
 colombia,cauca,others,250,almacafé,others,7.83,7.75,7.33,7.25,7.42,7.92,10,10,10,7.58,83.08,0.08,1,0,others,3,1880,1880,1880,70,bluish-green,83.08,,Other
 indonesia,dolok sanggul,pt. menacom,10,specialty coffee association of indonesia,2010,7.67,7.58,7.5,7.58,7.67,7.58,10,10,10,7.5,83.08,0,0,0,others,0,1300,1400,1350,60,bluish-green,83.08,,Other
@@ -527,8 +527,8 @@ guatemala,"la reforma, san marcos","nuevos mercados, s.a.",275,asociacion nacion
 colombia,la plata,la plata,121,almacafé,2011,7.67,7.67,7.58,7.5,7.67,7.42,10,10,10,7.5,83,0.12,0,0,bluish-green,0,1600,1950,1775,1,bluish-green,83,Caturra,Washed / Wet
 thailand,others,others,1,specialty coffee association,2011,7.33,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83,0.28,0,0,others,0,others,others,others,60,bluish-green,83,,Other
 colombia,cauca,others,300,almacafé,others,7.33,7.67,7.58,7.33,7.58,7.92,10,10,10,7.58,83,0.08,0,0,others,1,1050,1850,1450,70,bluish-green,83,,Other
-united states (hawaii),others,others,23,specialty coffee association,others,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,8.08,83,0,0,0,others,0,others,others,others,100,bluish-green,83,,Other
-united states (hawaii),others,others,5,specialty coffee association,others,7.5,7.58,7.42,7.58,7.58,7.67,10,10,10,7.67,83,0,0,0,others,1,others,others,others,100,bluish-green,83,,Other
+united states (hawaii),others,others,23,specialty coffee association,others,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,8.08,83,0,0,0,others,0,426.72,609.6,731.52,100,bluish-green,83,,Other
+united states (hawaii),others,others,5,specialty coffee association,others,7.5,7.58,7.42,7.58,7.58,7.67,10,10,10,7.67,83,0,0,0,others,1,426.72,609.6,731.52,100,bluish-green,83,,Other
 colombia,huila,varios,250,almacafé,2018,7.5,7.58,7.67,7.67,7.58,7.58,10,10,10,7.42,83,0.06,0,0,others,2,1800,1800,1800,70,bluish-green,83,,Other
 nicaragua,matagalpa,juan augustinpalacio,2,specialty coffee association,2009,7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,7.92,83,0.07,0,0,others,0,others,others,others,6,bluish-green,83,Caturra,Other
 thailand,others,doi tung development project,1,specialty coffee association,others,7.5,7.25,7.42,7.75,8.17,7.5,10,10,10,7.42,83,0,0,0,others,0,others,others,others,1,bluish-green,83,,Other
@@ -555,7 +555,7 @@ colombia,antioquia,others,250,almacafé,2013,7.83,7.67,7.42,7.42,7.5,7.58,10,10,
 mexico,petatlan,maria guadalupe gomez anzo,15,amecafe,2012,7.58,7.58,7.33,7.25,7.58,7.75,10,10,10,7.83,82.92,0.1,0,0,green,4,1248,1248,1248,1,green,82.92,Typica,Natural / Dry
 vietnam,don duong,"apollo co., ltd.",1,specialty coffee association,2012,7.67,7.33,7.17,7.58,8.08,7.42,10,10,10,7.67,82.92,0,0,0,others,17,1040,1040,1040,2,bluish-green,82.92,Other,Natural / Dry
 mexico,la cumbre,werclein hernandez serrano id.-1506728641,100,amecafe,2012,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,7.75,82.92,0.14,1,0,green,4,1400,1400,1400,1,green,82.92,Typica,Washed / Wet
-united states (hawaii),kona,others,8,specialty coffee association,2012,7.5,7.5,7.5,7.42,7.67,7.83,10,10,10,7.5,82.92,0.1,0,0,green,0,others,others,others,100,green,82.92,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,8,specialty coffee association,2012,7.5,7.5,7.5,7.42,7.67,7.83,10,10,10,7.5,82.92,0.1,0,0,green,0,426.72,609.6,731.52,100,green,82.92,Hawaiian Kona,Washed / Wet
 colombia,cauca,others,250,almacafé,others,7.5,7.75,7.33,7.75,7.08,7.83,10,10,10,7.67,82.92,0.15,0,0,others,0,1050,1850,1450,70,bluish-green,82.92,,Other
 thailand,others,doi tung development project,2,specialty coffee association,others,7.42,7.58,7.5,7.17,7.5,8,10,10,10,7.75,82.92,0,0,0,others,0,others,others,others,1,bluish-green,82.92,,Other
 kenya,nyeri,keremara limited,27,kenya coffee traders association,2017,7.75,7.58,7.42,7.58,7.5,7.5,10,10,10,7.5,82.83,0.1,0,0,green,3,1754,1754,1754,50,green,82.83,SL28,Washed / Wet
@@ -595,17 +595,17 @@ colombia,huila,la plata,250,almacafé,2014,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,
 malawi,mzuzu,mzuzu coffee planters coop union,29,africa fine coffee association,2014,7.75,7.58,7.42,7.5,7.33,7.5,10,10,10,7.67,82.75,0.12,0,0,bluish-green,0,1442,1442,1442,60,bluish-green,82.75,Gesha,Washed / Wet
 guatemala,jalapa,roberto monterroso,250,asociacion nacional del café,2014,7.75,7.42,7.25,7.75,7.5,7.67,10,10,10,7.42,82.75,0.13,0,0,green,2,1524,1524,1524,69,green,82.75,Pacas,Washed / Wet
 colombia,huila,others,275,almacafé,2014,7.67,7.42,7.42,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,green,0,165,165,165,1,green,82.75,Typica,Washed / Wet
-united states (hawaii),kona,others,10,specialty coffee association,2013,7.67,7.58,7.42,7.83,7.33,7.5,10,10,10,7.42,82.75,0.1,6,0,bluish-green,0,others,others,others,80,bluish-green,82.75,Hawaiian Kona,Natural / Dry
-united states (hawaii),kona,others,6,specialty coffee association,2013,7.58,7.83,7.75,7.75,7.42,8,9.33,9.33,10,7.75,82.75,0.1,0,0,green,0,others,others,others,100,green,82.75,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,10,specialty coffee association,2013,7.67,7.58,7.42,7.83,7.33,7.5,10,10,10,7.42,82.75,0.1,6,0,bluish-green,0,426.72,609.6,731.52,80,bluish-green,82.75,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,6,specialty coffee association,2013,7.58,7.83,7.75,7.75,7.42,8,9.33,9.33,10,7.75,82.75,0.1,0,0,green,0,426.72,609.6,731.52,100,green,82.75,Hawaiian Kona,Natural / Dry
 colombia,antioquia,several,250,specialty coffee association of costa rica,2013,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,7.5,82.75,0.1,0,0,green,2,1300,1300,1300,1,green,82.75,Caturra,Washed / Wet
 mexico,chiapas,carlos o. velazco lopez,32,amecafe,2013,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,7.58,82.75,0.12,0,0,green,6,1550,1550,1550,1,green,82.75,Typica,Washed / Wet
 mexico,veracruz,francisco r. de la vequia bernardi,250,amecafe,2012,7.58,7.58,7.33,7.75,7.25,7.58,10,10,10,7.67,82.75,0.12,0,0,others,0,1200,1200,1200,1,bluish-green,82.75,Typica,Washed / Wet
 mexico,atoyac de alvarez,romulo bello flores,21,amecafe,2012,8.08,8.17,8,8,7.83,7.92,6.67,10,10,8.08,82.75,0.12,1,0,others,4,1200,1200,1200,1,bluish-green,82.75,Typica,Natural / Dry
 colombia,south huila,supply chain ecom cca s.a.,250,almacafé,2012,7.5,7.58,7.42,7.67,7.5,7.58,10,10,10,7.5,82.75,0,0,0,bluish-green,0,1400,1850,1625,70,bluish-green,82.75,Caturra,Washed / Wet
 colombia,huila,la plata,100,almacafé,2012,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,7.42,82.75,0.11,0,0,green,3,1600,1950,1775,70,green,82.75,Caturra,Washed / Wet
-united states (hawaii),kona,others,6,specialty coffee association,2012,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10,10,7.75,82.75,0.12,0,0,green,0,others,others,others,100,green,82.75,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,6,specialty coffee association,2012,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10,10,7.75,82.75,0.12,0,0,green,0,426.72,609.6,731.52,100,green,82.75,Hawaiian Kona,Washed / Wet
 panama,boquete,price peterson,300,specialty coffee association,2012,7.42,7.42,7.5,7.58,7.5,7.75,10,10,10,7.58,82.75,0,0,0,green,4,1100,1100,1100,2,green,82.75,Catuai,Washed / Wet
-united states (hawaii),kona,others,14,specialty coffee association,others,7.75,7.67,7.5,7.83,7.17,7.42,10,10,10,7.42,82.75,0,0,0,others,2,others,others,others,1,bluish-green,82.75,,Other
+united states (hawaii),kona,others,14,specialty coffee association,others,7.75,7.67,7.5,7.83,7.17,7.42,10,10,10,7.42,82.75,0,0,0,others,2,426.72,609.6,731.52,1,bluish-green,82.75,,Other
 brazil,south of minas,ipanema agricola s.a,320,brazil specialty coffee association,2017,7.5,7.58,7.25,7.75,7.58,7.5,10,10,10,7.5,82.67,0,0,0,green,4,890,890,890,60,green,82.67,Bourbon,Natural / Dry
 brazil,south of minas,ipanema agricola,320,brazil specialty coffee association,2016,7.5,7.58,7.5,7.67,7.5,7.42,10,10,10,7.5,82.67,0.11,0,2,bluish-green,3,934,934,934,60,bluish-green,82.67,Bourbon,Natural / Dry
 laos,"paksong,laos","paksong,laos",60,blossom valley international,2015,7.67,7.67,7.42,7.42,7.42,7.5,10,10,10,7.58,82.67,0.13,0,0,bluish-green,0,1300,1300,1300,50,bluish-green,82.67,Catimor,Washed / Wet
@@ -628,7 +628,7 @@ thailand,thailand,doi tung development project,2,specialty coffee association,20
 mexico,others,amin javier moises ceja,36,amecafe,2012,7.58,7.58,7.42,7.58,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,others,2,1100,1100,1100,1,bluish-green,82.67,Other,Washed / Wet
 mexico,mahuixtlan,maria de lourdes ancira elizondo,23,amecafe,2012,7.5,7.58,7.58,7.58,7.42,7.42,10,10,10,7.58,82.67,0.12,0,0,others,0,950,950,950,1,bluish-green,82.67,Typica,Washed / Wet
 colombia,52 narino (exact location: mattituy; municipal region: florida code 381,mariana cabrera pantoja; i.d.: 27 423 625,1,specialty coffee association,2011,7.33,7.58,7.42,7.42,7.67,7.67,10,10,10,7.58,82.67,0.11,0,0,green,0,1800,5900,3850,1,green,82.67,,Other
-united states (hawaii),kona,others,37,specialty coffee association,others,7.83,7.67,7.5,7.67,7.5,7.58,10,10,9.33,7.58,82.67,0.03,2,0,others,0,others,others,others,100,bluish-green,82.67,,Other
+united states (hawaii),kona,others,37,specialty coffee association,others,7.83,7.67,7.5,7.67,7.5,7.58,10,10,9.33,7.58,82.67,0.03,2,0,others,0,426.72,609.6,731.52,100,bluish-green,82.67,,Other
 mexico,mexico,finca kassandra,1,specialty coffee association,2010,7.75,7.58,7.25,7.75,7.67,7.58,10,10,10,7.08,82.67,0,0,0,others,1,1400,1400,1400,1,bluish-green,82.67,Blue Mountain,Other
 colombia,huila,others,250,almacafé,2018,8.08,7.67,7.67,7.33,7.33,7.17,10,10,10,7.42,82.67,0.08,0,0,others,3,1800,1800,1800,70,bluish-green,82.67,,Other
 colombia,others,others,270,almacafé,2009,7.5,7.42,7.33,7.33,7.67,7.83,10,10,10,7.58,82.67,0.21,0,0,others,2,others,others,others,70,bluish-green,82.67,,Other
@@ -671,7 +671,7 @@ mexico,la concordia,susana leticia lopez aguilar,28,amecafe,2012,7.92,7.5,7.33,7
 guatemala,oriente,various,275,asociacion nacional del café,2012,7.67,7.33,7.33,7.33,7.5,7.83,10,10,10,7.5,82.5,0.11,0,0,green,5,others,others,others,1,green,82.5,Caturra,Natural / Dry
 brazil,carmo de minas,nazareth dias pereira,300,nucoffee,2012,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,7.42,82.5,0,0,0,bluish-green,4,1250,1250,1250,60,bluish-green,82.5,Bourbon,Semi-washed / Semi-pulped
 colombia,huila,la plata,275,almacafé,2012,7.67,7.5,7.33,7.5,7.25,7.67,10,10,10,7.58,82.5,0.11,1,0,green,3,1600,1950,1775,70,green,82.5,Caturra,Washed / Wet
-united states (hawaii),kona,others,7,specialty coffee association,2012,7.33,7.42,7.33,7.75,7.42,7.67,10,10,10,7.58,82.5,0.12,2,0,green,3,others,others,others,100,green,82.5,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,7,specialty coffee association,2012,7.33,7.42,7.33,7.75,7.42,7.67,10,10,10,7.58,82.5,0.12,2,0,green,3,426.72,609.6,731.52,100,green,82.5,Hawaiian Kona,Washed / Wet
 guatemala,huehuetenango,others,245,specialty coffee association,others,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10,10,7.33,82.5,0.01,1,0,others,14,1600,1600,1600,1,bluish-green,82.5,,Other
 honduras,"comayagua, honduras",danilo carrillo,1,specialty coffee association,2017,7.42,7.67,7.17,7.58,7.58,7.5,10,10,10,7.5,82.42,0.12,0,1,green,6,1500,1500,1500,2,green,82.42,Other,Washed / Wet
 guatemala,san marcos,jorge leal,50,asociacion nacional del café,2017,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,7.42,82.42,0.1,0,1,green,2,1700,1700,1700,69,green,82.42,Bourbon,Washed / Wet
@@ -743,7 +743,7 @@ malawi,mzuzu,mzuzu coffee coop union,10,africa fine coffee association,2014,7.58
 brazil,south of minas,ipanema agrícola sa,320,specialty coffee association,2014,7.75,7.58,7.42,7.42,7.33,7.33,10,10,10,7.42,82.25,0.11,0,0,green,0,1100,1100,1100,2,green,82.25,Bourbon,Natural / Dry
 taiwan,nantou,lin yu tang 林玉堂,35,blossom valley international,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.25,82.25,0.11,0,0,green,0,650,650,650,60,green,82.25,Typica,Washed / Wet
 mexico,veracruz,maria del rosario irais valdivia ortiz,150,amecafe,2013,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,7.42,82.25,0.12,0,0,bluish-green,4,1338,1338,1338,1,bluish-green,82.25,Mundo Novo,Washed / Wet
-united states (hawaii),kona,others,6,specialty coffee association,2013,7.33,7.42,7.5,7.67,7.5,7.42,10,10,10,7.42,82.25,0,0,0,bluish-green,1,others,others,others,100,bluish-green,82.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,6,specialty coffee association,2013,7.33,7.42,7.5,7.67,7.5,7.42,10,10,10,7.42,82.25,0,0,0,bluish-green,1,426.72,609.6,731.52,100,bluish-green,82.25,Hawaiian Kona,Natural / Dry
 mexico,"calnali, hidalgo",felix de la cruz casimiro,10,amecafe,2012,7.58,7.58,7.5,7.17,7.42,7.42,10,10,10,7.58,82.25,0.16,3,0,others,8,533,533,533,1,bluish-green,82.25,Bourbon,Washed / Wet
 guatemala,antigua,"siembras vision, s.a.",275,asociacion nacional del café,2012,7.5,7.5,7.33,7.58,7.67,7.33,10,10,10,7.33,82.25,0.11,0,0,green,2,1390.8024,1390.8024,1390.8024,69,green,82.25,Bourbon,Washed / Wet
 mexico,veracruz,manuel herrera juarez,10,amecafe,2012,7.5,7.58,7.42,7.67,7.33,7.42,10,10,10,7.33,82.25,0.13,0,0,green,3,1170,1170,1170,1,green,82.25,Bourbon,Washed / Wet
@@ -785,13 +785,13 @@ costa rica,tres rios,jose francisco gonzalez,275,specialty coffee association of
 "tanzania, united republic of",ngorogoro,ngorogoro convenant estate,1,africa fine coffee association,2014,7.42,7.5,7.5,7.33,7.33,7.5,10,10,10,7.5,82.08,0.12,0,0,green,3,1500,1700,1600,60,green,82.08,Other,Washed / Wet
 colombia,others,others,1,specialty coffee association,2013,7.5,7.42,7.42,7.42,7.67,7.42,10,10,10,7.25,82.08,0.11,1,0,green,0,others,others,others,5,green,82.08,,Washed / Wet
 costa rica,turrialba,cafetalera aquiares,150,specialty coffee association of costa rica,2013,7.58,7.33,7.33,7.33,7.5,7.67,10,10,10,7.33,82.08,0.11,0,0,green,2,13,13,13,69,green,82.08,Caturra,Washed / Wet
-united states (hawaii),kona,others,4,specialty coffee association,2012,7.25,7.58,7.58,7.25,7.5,7.42,10,10,10,7.5,82.08,0.11,0,0,bluish-green,0,others,others,others,100,bluish-green,82.08,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,4,specialty coffee association,2012,7.25,7.58,7.58,7.25,7.5,7.42,10,10,10,7.5,82.08,0.11,0,0,bluish-green,0,426.72,609.6,731.52,100,bluish-green,82.08,Hawaiian Kona,Natural / Dry
 mexico,coatepec,gibran leonardo cervantes covarrubias,35,amecafe,2012,7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,7.42,82.08,0.13,0,0,green,7,1300,1300,1300,1,green,82.08,Typica,Washed / Wet
 mexico,tapachula,ismam san isidro labrador s. de s.s.,250,amecafe,2012,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,7.5,82.08,0.13,3,0,green,13,1800,1800,1800,1,green,82.08,Typica,Washed / Wet
 mexico,coatepec,rosa aurora falcon fernandez,15,amecafe,2012,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,7.33,82.08,0.11,0,0,green,11,1250,1250,1250,1,green,82.08,Typica,Washed / Wet
 vietnam,don duong,"apollo co., ltd.",1,specialty coffee association,2012,7.67,8,7.17,7.08,7.67,7.08,10,10,10,7.42,82.08,0.12,0,0,green,2,1040,1040,1040,2,green,82.08,Other,Natural / Dry
 mexico,veracruz,ramiro de la vequia bernardi,250,amecafe,2012,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,7.33,82.08,0.11,0,0,green,1,1250,1250,1250,1,green,82.08,Typica,Washed / Wet
-united states (hawaii),kona,others,10,specialty coffee association,2012,7.33,7.5,7.33,7.58,7.08,7.83,10,10,10,7.42,82.08,0.1,0,0,green,2,others,others,others,100,green,82.08,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,10,specialty coffee association,2012,7.33,7.5,7.33,7.58,7.08,7.83,10,10,10,7.42,82.08,0.1,0,0,green,2,426.72,609.6,731.52,100,green,82.08,Hawaiian Kona,Washed / Wet
 colombia,cauca,carlos pechene / jesús pechene / flor chacón,275,almacafé,2011,7.67,7.42,7.67,7.33,7.25,7.58,10,10,10,7.17,82.08,0.08,1,0,others,5,1600,1600,1600,70,bluish-green,82.08,,Other
 honduras,el paraíso,santos fonseca,275,instituto hondureño del café,2017,7.5,7.5,7.17,7.5,7.5,7.42,10,10,10,7.42,82,0.12,0,0,green,1,1600,1600,1600,69,green,82,Caturra,Washed / Wet
 honduras,guinope el paraíso,santos fonseca,275,instituto hondureño del café,2016,7.5,7.5,7.25,7.33,7.42,7.5,10,10,10,7.5,82,0.1,0,1,green,7,1600,1600,1600,69,green,82,Caturra,Natural / Dry
@@ -850,14 +850,14 @@ brazil,south of minas,ipanema agrícola sa,320,specialty coffee association,2014
 honduras,comayagua,"tomás sosa, juan damaso",275,instituto hondureño del café,2014,7.5,7.5,7.33,7.33,7.33,7.33,10,10,10,7.5,81.83,0.1,0,0,green,4,1350,1350,1350,1,green,81.83,Caturra,Natural / Dry
 mexico,"siltepec el triunfo, chiapas, mexico",various small producers,280,specialty coffee association,2014,7.42,7.42,7.25,7.5,7.33,7.42,10,10,10,7.5,81.83,0.11,0,0,green,0,1550,1550,1550,2,green,81.83,Typica,Washed / Wet
 colombia,huila,la plata,50,almacafé,2013,7.5,7.5,7,7.42,7.5,7.58,10,10,10,7.33,81.83,0,2,0,bluish-green,0,1600,1950,1775,70,bluish-green,81.83,Caturra,Washed / Wet
-united states (hawaii),kona,others,19,specialty coffee association,2012,7.83,7.83,7.83,8,7.83,7.83,10,6.67,10,8,81.83,0,1,0,bluish-green,1,others,others,others,100,bluish-green,81.83,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,19,specialty coffee association,2012,7.83,7.83,7.83,8,7.83,7.83,10,6.67,10,8,81.83,0,1,0,bluish-green,1,426.72,609.6,731.52,100,bluish-green,81.83,Hawaiian Kona,Natural / Dry
 brazil,sul de minas,nazareth dias pereira,300,specialty coffee association,2012,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,81.83,0.12,0,0,bluish-green,0,1250,1250,1250,60,bluish-green,81.83,Bourbon,Semi-washed / Semi-pulped
 guatemala,oriente,luis rodriguez,250,asociacion nacional del café,2013,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10,9.33,7.5,81.83,0.11,0,0,green,1,1310.64,1310.64,1310.64,69,green,81.83,Bourbon,Washed / Wet
 mexico,veracruz,maria magdalena luethje y gris,302,amecafe,2012,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,7.25,81.83,0.12,0,0,green,2,1500,1500,1500,1,green,81.83,Bourbon,Washed / Wet
 mexico,coatepec,jorge francisco martinez hachity,15,amecafe,2012,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,7.42,81.83,0.12,0,0,green,10,1250,1250,1250,1,green,81.83,Typica,Semi-washed / Semi-pulped
 brazil,cerrado,marilsa de fatima peternela,58,nucoffee,2011,7.33,7.67,7.25,7.5,7.5,7.25,10,10,10,7.33,81.83,0.02,0,0,others,2,900,950,925,60,bluish-green,81.83,Mundo Novo,Other
 colombia,huila,others,250,almacafé,2011,7.58,7.5,7.17,7.58,7.33,7.33,10,10,10,7.33,81.83,0.05,0,0,others,0,1600,1800,1700,70,bluish-green,81.83,,Other
-united states (hawaii),kona,others,30,specialty coffee association,others,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10,7.33,81.83,0.02,3,0,others,12,others,others,others,0,bluish-green,81.83,,Other
+united states (hawaii),kona,others,30,specialty coffee association,others,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10,7.33,81.83,0.02,3,0,others,12,426.72,609.6,731.52,0,bluish-green,81.83,,Other
 guatemala,san marcos,angel de leon,50,asociacion nacional del café,2017,7.5,7.5,7.25,7.42,7.42,7.33,10,10,10,7.33,81.75,0.11,0,1,green,1,1700,1700,1700,69,green,81.75,Bourbon,Washed / Wet
 vietnam,vietnam,richard yeh,1,specialty coffee association,2014,7,7.08,7.33,7.5,7.5,7.33,10,10,10,8,81.75,0.12,0,0,bluish-green,0,1040,1040,1040,2,bluish-green,81.75,Caturra,Washed / Wet
 "tanzania, united republic of",ngorogoro,ngorogoro convenant estate,1,africa fine coffee association,2014,7.42,7.42,7.42,7.42,7.33,7.33,10,10,10,7.42,81.75,0.12,0,0,bluish-green,4,1500,1700,1600,60,bluish-green,81.75,Other,Washed / Wet
@@ -893,7 +893,7 @@ mexico,yajalon,maya binik,15,amecafe,2012,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,
 mexico,veracruz,cesar santiz lopez,275,amecafe,2012,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,7.17,81.67,0.11,0,0,green,2,1200,1200,1200,1,green,81.67,Bourbon,Washed / Wet
 mexico,"la concordia, chiapas",octavio moguel farrera,250,amecafe,2012,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,7.42,81.67,0.11,0,0,green,2,1400,1400,1400,1,green,81.67,Bourbon,Washed / Wet
 mexico,"sacún palma, municipio de chilón, chiapas",armando gutierez guzmán,12,amecafe,2012,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10,10,7.67,81.67,0.11,0,0,green,4,940,940,940,1,green,81.67,Caturra,Semi-washed / Semi-pulped
-united states (hawaii),kona,others,13,specialty coffee association,2012,7.42,7.33,7.33,7.33,7.17,7.83,10,10,10,7.25,81.67,0.1,1,0,green,1,others,others,others,100,green,81.67,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,13,specialty coffee association,2012,7.42,7.33,7.33,7.33,7.17,7.83,10,10,10,7.25,81.67,0.1,1,0,green,1,426.72,609.6,731.52,100,green,81.67,Hawaiian Kona,Washed / Wet
 honduras,western region,cafes finos de corquin,275,instituto hondureño del café,2018,7.5,7.42,7.08,7.42,7.5,7.33,10,10,10,7.33,81.58,0.11,0,1,bluish-green,3,1200,1200,1200,69,bluish-green,81.58,Catimor,Washed / Wet
 guatemala,huehuetenango,"agricola el pilar, sa.",25,asociacion nacional del café,2017,7.42,7.42,7.08,7.5,7.42,7.33,10,10,10,7.42,81.58,0.12,0,0,green,0,190164,190164,190164,69,green,81.58,Bourbon,Washed / Wet
 taiwan,natou county,蘇晉寬 su jin kuan,20,specialty coffee association,2016,7.42,7.42,7.25,7.67,7.33,7.25,10,10,10,7.25,81.58,0.1,0,0,bluish-green,0,800,800,800,50,bluish-green,81.58,Typica,Washed / Wet
@@ -932,7 +932,7 @@ indonesia,ijen,pt. perkebunan nusantara xii,10,specialty coffee association of i
 brazil,sul de minas,nazareth dias pereira,300,nucoffee,2012,7.5,7.42,7.17,7.42,7.5,7.33,10,10,10,7.17,81.5,0.12,0,0,bluish-green,2,125,125,125,1,bluish-green,81.5,Bourbon,Semi-washed / Semi-pulped
 guatemala,oriente,chiquimulja / alpha cafe / senfro,250,asociacion nacional del café,2012,7.33,7.5,7.33,7.42,7.17,7.33,10,10,10,7.42,81.5,0.11,0,0,green,1,others,others,others,1,green,81.5,Bourbon,Washed / Wet
 colombia,cauca,others,250,almacafé,others,7.42,7.42,7.17,7.42,7.42,7.33,10,10,10,7.33,81.5,0.06,1,0,others,0,1050,1850,1450,70,bluish-green,81.5,,Other
-united states (hawaii),kona,others,16,specialty coffee association,others,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10,10,7.33,81.5,0,0,0,others,17,others,others,others,1,bluish-green,81.5,,Other
+united states (hawaii),kona,others,16,specialty coffee association,others,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10,10,7.33,81.5,0,0,0,others,17,426.72,609.6,731.52,1,bluish-green,81.5,,Other
 mexico,veracruz,cafes tomari sa de cv,200,centro agroecológico del café a.c.,2017,7.58,7.33,7.08,7.33,7.5,7.33,10,10,10,7.25,81.42,0.12,1,5,green,17,1100,1100,1100,69,green,81.42,Mundo Novo,Washed / Wet
 guatemala,san marcos,"agricola nueva granada, s.a.",450,asociacion nacional del café,2016,7.42,7.33,7.08,7.58,7.33,7.25,10,10,10,7.42,81.42,0.1,0,0,green,0,1371.6,1371.6,1371.6,69,green,81.42,Catuai,Washed / Wet
 brazil,cerrado,inacio urban,300,brazil specialty coffee association,2015,7.33,7.5,7.5,7.33,6.83,7.42,10,10,10,7.5,81.42,0.11,0,0,green,2,1100,1100,1100,60,green,81.42,Catuai,Natural / Dry
@@ -948,7 +948,7 @@ mexico,"huazalingo, hidalgo","martinez bautista, nicolas",10,amecafe,2012,7.42,7
 mexico,"coatepec, coatepec",maria de loudes ancira elizondo,20,amecafe,2012,7.42,7.42,7.25,7.25,7.5,7.33,10,10,10,7.25,81.42,0.13,0,0,others,1,1100,1100,1100,1,bluish-green,81.42,Typica,Washed / Wet
 colombia,huila,exportadora de cafe condor s.a,250,almacafé,2011,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,7.17,81.42,0.11,0,0,green,0,1750,1750,1750,70,green,81.42,Caturra,Natural / Dry
 colombia,cauca,others,250,almacafé,2018,7.75,7.33,7.42,7,7.33,7.25,10,10,10,7.33,81.42,0.16,0,0,others,2,1880,1880,1880,70,bluish-green,81.42,,Other
-united states (hawaii),kona,others,27,specialty coffee association,others,7.83,7,7,7.58,7.58,7.5,10,10,10,6.92,81.42,0.01,0,0,others,10,others,others,others,0,bluish-green,81.42,Peaberry,Other
+united states (hawaii),kona,others,27,specialty coffee association,others,7.83,7,7,7.58,7.58,7.5,10,10,10,6.92,81.42,0.01,0,0,others,10,426.72,609.6,731.52,0,bluish-green,81.42,Peaberry,Other
 colombia,huila,la plata,230,almacafé,2016,7.5,7.33,7.33,7.17,7.33,7.42,10,10,10,7.25,81.33,0,0,0,others,0,others,others,others,70,bluish-green,81.33,Caturra,Washed / Wet
 honduras,comayagua,nahun maldonado,275,instituto hondureño del café,2016,7.5,7.5,7,7.17,7.5,7.33,10,10,10,7.33,81.33,0.11,0,2,bluish-green,3,1500,1500,1500,69,bluish-green,81.33,Caturra,Washed / Wet
 mexico,veracruz,juan hermilo sampieri,220,centro agroecológico del café a.c.,2016,7.67,7.42,7,7.42,7.58,7.08,10,10,10,7.17,81.33,0.12,0,2,green,0,1130,1130,1130,69,green,81.33,,Other
@@ -984,7 +984,7 @@ brazil,monte carmelo,jose renato baiardi,300,nucoffee,2013,7.42,7.42,7.17,7.42,7
 mexico,tapachula,ismam san isidro labrador s. de s.s.,250,amecafe,2012,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,7.08,81.17,0.13,3,0,green,7,1800,1800,1800,1,green,81.17,Typica,Natural / Dry
 guatemala,oriente,finca quequesquez,250,specialty coffee association,2012,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,7.25,81.17,0.12,0,0,green,4,1450,1450,1450,1,green,81.17,Caturra,Washed / Wet
 brazil,south of minas,bruno de andrade frota,17,nucoffee,2012,7.42,7.33,7.25,7.42,7.5,7.17,10,10,10,7.08,81.17,0.12,0,0,green,1,1000,1000,1000,60,green,81.17,Mundo Novo,Natural / Dry
-united states (hawaii),kona,others,4,specialty coffee association,others,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10,7.75,81.17,0.04,3,0,others,0,others,others,others,100,bluish-green,81.17,,Other
+united states (hawaii),kona,others,4,specialty coffee association,others,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10,7.75,81.17,0.04,3,0,others,0,426.72,609.6,731.52,100,bluish-green,81.17,,Other
 ethiopia,sidamo,kerchanshe trading plc,300,specialty coffee institute of asia,2016,7.42,7.33,7.17,7.33,7.42,7.17,10,10,10,7.25,81.08,0.11,0,0,others,1,others,others,others,60,bluish-green,81.08,,Natural / Dry
 brazil,alta paulista (sao paulo),josé olavo boechat,500,specialty coffee association,2016,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10,9.33,7.33,81.08,0.11,5,0,green,8,695,695,695,60,green,81.08,Mundo Novo,Natural / Dry
 nicaragua,jinotega,rolando lacayo,275,asociación de cafés especiales de nicaragua,2015,7.33,7.33,7.33,7.42,7.33,7.33,10,10,10,7,81.08,0.11,0,0,others,1,1100,1100,1100,69,bluish-green,81.08,Other,Washed / Wet
@@ -996,7 +996,7 @@ mexico,san fernando,medina pedrero productos agrícolas sa de cv,100,amecafe,201
 mexico,santo reyes nopala,"diego manuel woolrich ramirez, alfredo fernando woolrich ramirez",30,amecafe,2012,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,7.08,81.08,0.12,0,0,green,2,1300,1300,1300,1,green,81.08,Typica,Washed / Wet
 mexico,santa maria sitepec,etmar didier roblero lopez,40,amecafe,2012,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,7.25,81.08,0.11,0,0,green,5,1642,1642,1642,1,green,81.08,Typica,Washed / Wet
 mexico,talpa de allende,balbino ramirez flores,15,amecafe,2012,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,7.25,81.08,0.1,0,0,green,1,1200,1200,1200,1,green,81.08,Typica,Washed / Wet
-united states (hawaii),others,others,2,specialty coffee association,2012,7.42,7.42,7.25,7.58,6.92,7.17,10,10,10,7.33,81.08,0.06,0,0,bluish-green,0,others,others,others,100,bluish-green,81.08,Hawaiian Kona,Washed / Wet
+united states (hawaii),others,others,2,specialty coffee association,2012,7.42,7.42,7.25,7.58,6.92,7.17,10,10,10,7.33,81.08,0.06,0,0,bluish-green,0,426.72,609.6,731.52,100,bluish-green,81.08,Hawaiian Kona,Washed / Wet
 brazil,grama valley,gabriel carvalho dias,300,brazil specialty coffee association,others,7.25,7.25,7.17,7.5,7.33,7.17,10,10,10,7.33,81,0.11,0,6,green,9,others,others,others,59,green,81,Bourbon,Pulped natural / honey
 el salvador,apaneca,"balcanes coffee estates, s.a. de c.v.",100,salvadoran coffee council,2017,7.42,7.08,7.08,7.33,7.25,7.58,10,10,10,7.25,81,0,0,2,green,6,1450,1450,1450,69,green,81,Bourbon,Washed / Wet
 brazil,grama valley,gabriel de carvalho dias,300,brazil specialty coffee association,2016,7.33,7.17,7.17,7.67,7.33,7.17,10,10,10,7.17,81,0.11,0,2,bluish-green,3,others,others,others,59,bluish-green,81,Yellow Bourbon,Pulped natural / honey
@@ -1017,7 +1017,7 @@ guatemala,oriente,"agricola el pilar, s.a.",25,asociacion nacional del café,201
 kenya,kiambu,thiririka/thima,150,kenya coffee traders association,2017,7.17,7.58,7.5,7.5,8,7.75,10,10,10,5.42,80.92,0.11,0,0,green,3,1600,1600,1600,60,green,80.92,SL28,Washed / Wet
 mexico,veracruz,jose oscar garza sardaneta,240,centro agroecológico del café a.c.,2017,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,7.33,80.92,0.11,0,0,green,11,1100,1100,1100,69,green,80.92,Bourbon,Washed / Wet
 myanmar,pyinoolwin,min hlaing,2,coffee quality institute,2015,7.17,7.42,7,7.58,7.33,7,10,10,10,7.42,80.92,0,0,0,others,5,1066.8,1066.8,1066.8,2,bluish-green,80.92,Other,Other
-united states (hawaii),kona,others,7,specialty coffee association,2014,7.42,7.08,7.17,7.17,7.58,7.25,10,10,10,7.25,80.92,0.1,2,0,bluish-green,5,others,others,others,100,bluish-green,80.92,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,7,specialty coffee association,2014,7.42,7.08,7.17,7.17,7.58,7.25,10,10,10,7.25,80.92,0.1,2,0,bluish-green,5,426.72,609.6,731.52,100,bluish-green,80.92,Hawaiian Kona,Natural / Dry
 "tanzania, united republic of","manyara, karatu",karatu estate,250,africa fine coffee association,2014,7.33,7.17,7.17,7.25,7.42,7.33,10,10,10,7.25,80.92,0.12,0,0,green,0,1700,1700,1700,60,green,80.92,Other,Washed / Wet
 brazil,mantiqueira de minas,nazareth dias pereira,300,brazil specialty coffee association,2014,7.25,7.33,7.25,7.25,7.25,7.33,10,10,10,7.25,80.92,0.12,0,0,green,8,1200,1200,1200,60,green,80.92,Yellow Bourbon,Natural / Dry
 taiwan,台中新社,張文進,10,blossom valley international,2014,7.92,7.67,7.33,7.08,7.08,7.08,10,10,10,6.75,80.92,0.09,0,0,green,0,550,550,550,60,green,80.92,Typica,Washed / Wet
@@ -1034,7 +1034,7 @@ guatemala,orient,several,250,specialty coffee association of costa rica,2013,7.6
 mexico,motozintla,domingo muguira revuelta,15,amecafe,2012,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,7.33,80.83,0.13,0,0,green,7,1210,1210,1210,1,green,80.83,Catuai,Semi-washed / Semi-pulped
 mexico,oaxaca,juan jose casas blanco,30,amecafe,2012,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,7.17,80.83,0.11,0,0,green,3,1100,1100,1100,1,green,80.83,Typica,Washed / Wet
 mexico,veracruz,moises guillermo carrera montes,100,amecafe,2012,7.5,7.17,7.33,7.25,7.17,7.17,10,10,10,7.25,80.83,0.13,0,0,green,1,100,100,100,1,green,80.83,Bourbon,Washed / Wet
-united states (hawaii),kona,others,7,specialty coffee association,2012,7.42,7.33,7,7.25,7.33,7.5,10,10,10,7,80.83,0.1,2,0,bluish-green,0,others,others,others,100,bluish-green,80.83,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,7,specialty coffee association,2012,7.42,7.33,7,7.25,7.33,7.5,10,10,10,7,80.83,0.1,2,0,bluish-green,0,426.72,609.6,731.52,100,bluish-green,80.83,Hawaiian Kona,Washed / Wet
 colombia,huila,exportadora de café cóndor s.a,250,almacafé,2018,7.33,7.33,7,6.83,7.33,7.67,10,10,10,7.33,80.83,0.01,0,0,others,1,1800,1800,1800,70,bluish-green,80.83,,Other
 brazil,monte carmelo,diogo tudela neto,320,brazil specialty coffee association,2015,7.17,7.25,7.08,7.17,7.25,7.58,10,10,10,7.25,80.75,0,0,0,green,1,others,others,others,60,green,80.75,,Natural / Dry
 myanmar,ywar ngan,u soe,1,coffee quality institute,2015,6.92,7.5,7,7.58,7.5,7.08,10,10,10,7.17,80.75,0,0,0,green,2,3825,3825,3825,2,green,80.75,Catuai,Washed / Wet
@@ -1047,7 +1047,7 @@ honduras,central region,reinerio zepeda,275,instituto hondureño del café,2015,
 costa rica,san ramon,several,250,specialty coffee association,2014,7.33,7.33,7.25,7.25,7.17,7.17,10,10,10,7.25,80.75,0.11,0,0,green,0,1300,1300,1300,3,green,80.75,Caturra,Washed / Wet
 mexico,oaxaca,"jose rios lara, apolonia franco torres, jenaro gonzales mendoza",30,amecafe,2012,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,7.5,80.75,0.11,0,0,green,2,1200,1200,1200,1,green,80.75,Typica,Washed / Wet
 haiti,haiti,coopaimar copperative agro industriel de marmelade,1,specialty coffee association,2012,7.42,7,7.42,7.25,7.08,7.33,10,10,10,7.25,80.75,0.12,0,0,green,0,1000,1000,1000,2,green,80.75,Typica,Washed / Wet
-united states (hawaii),kona,others,3,specialty coffee association,2011,7.08,7.33,7.17,7.25,7.33,7.67,10,10,10,6.92,80.75,0.13,0,0,bluish-green,6,others,others,others,2,bluish-green,80.75,Arusha,Natural / Dry
+united states (hawaii),kona,others,3,specialty coffee association,2011,7.08,7.33,7.17,7.25,7.33,7.67,10,10,10,6.92,80.75,0.13,0,0,bluish-green,6,426.72,609.6,731.52,2,bluish-green,80.75,Arusha,Natural / Dry
 taiwan,taiwan,唐權盛,160,blossom valley international,2016,7.33,7.08,7.08,7.08,7.42,7.33,10,10,10,7.33,80.67,0,0,0,green,1,others,others,others,1,green,80.67,Typica,Other
 indonesia,sumatra brastagi,surbakti,200,specialty coffee association,2015,7.58,7.42,7,7.67,7.5,7.5,9.33,9.33,10,7.33,80.67,0.13,0,0,bluish-green,1,1200,1500,1350,30,bluish-green,80.67,Mandheling,Semi-washed / Semi-pulped
 guatemala,antigua,finca medina,150,asociacion nacional del café,2015,7.67,7.42,6.83,7.17,7.42,7.17,10,10,10,7,80.67,0.11,0,0,green,0,1500,1500,1500,60,green,80.67,Bourbon,Washed / Wet
@@ -1065,7 +1065,7 @@ nicaragua,nueva segovia,adonis jose ortez beltran,275,instituto hondureño del c
 brazil,south of minas,ipanema agrícola sa,300,specialty coffee association,2014,7.42,7.25,7.33,7,7.08,7.25,10,10,10,7.25,80.58,0,0,0,green,3,1200,1200,1200,2,green,80.58,Bourbon,Semi-washed / Semi-pulped
 honduras,occidental,bsr,275,instituto hondureño del café,2014,7.5,7.17,7,7.42,7.33,7,10,10,10,7.17,80.58,0.11,0,0,green,5,1400,1400,1400,69,green,80.58,Caturra,Washed / Wet
 guatemala,huehuetenango,byron alonzo solis,275,asociacion nacional del café,2014,7.17,7.42,6.83,7.5,7.17,7.25,10,10,10,7.25,80.58,0.11,0,0,green,5,1383.792,1383.792,1383.792,69,green,80.58,Bourbon,Natural / Dry
-united states (hawaii),others,others,10,specialty coffee association,others,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,7.83,80.58,0,0,0,others,0,others,others,others,100,bluish-green,80.58,,Other
+united states (hawaii),others,others,10,specialty coffee association,others,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,7.83,80.58,0,0,0,others,0,426.72,609.6,731.52,100,bluish-green,80.58,,Other
 colombia,others,others,149,almacafé,others,7.08,7.25,7,7.5,7.08,7.33,10,10,10,7.33,80.58,0,0,0,others,2,others,others,others,70,bluish-green,80.58,,Other
 taiwan,taiwan,王秋金,20,blossom valley international,2017,7.17,7.17,7.17,7.42,7.17,7.25,10,10,10,7.17,80.5,0,0,0,bluish-green,0,50,50,50,5,bluish-green,80.5,Other,Natural / Dry
 guatemala,santa rosa,edwin muñoz,275,asociacion nacional del café,2017,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,7.25,80.5,0.1,0,0,green,4,1500,1500,1500,69,green,80.5,Caturra,Washed / Wet
@@ -1075,7 +1075,7 @@ brazil,vale da grama,lindolpho de carvalho dias,300,brazil specialty coffee asso
 myanmar,pyin oo lwin,shwe yin mar,1,coffee quality institute,2015,7.17,7.33,7.17,7.42,7.25,7.08,10,10,10,7.08,80.5,0,0,0,green,2,3800,3800,3800,2,green,80.5,Other,Washed / Wet
 guatemala,oriente,varios,275,asociacion nacional del café,2014,7.5,7.17,6.83,7.5,7.17,7.17,10,10,10,7.17,80.5,0.11,0,0,green,3,1219.2,1219.2,1219.2,69,green,80.5,Other,Washed / Wet
 brazil,mantiqueira de minas,maria rogeria costa pereira,300,specialty coffee association,2013,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,7.42,80.5,0.1,0,0,others,10,1250,1250,1250,60,bluish-green,80.5,Yellow Bourbon,Semi-washed / Semi-pulped
-united states (hawaii),kona,others,10,specialty coffee association,2013,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10,10,7.17,80.5,0.11,1,0,green,0,others,others,others,100,green,80.5,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,10,specialty coffee association,2013,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10,10,7.17,80.5,0.11,1,0,green,0,426.72,609.6,731.52,100,green,80.5,Hawaiian Kona,Natural / Dry
 guatemala,huehuetenango,idmar de jesus velasquez calderon,250,asociacion nacional del café,2013,7.5,7.5,7,7.67,7.17,7,10,10,10,6.67,80.5,0.12,1,0,green,1,1859.28,1859.28,1859.28,1,green,80.5,Bourbon,Washed / Wet
 mexico,zaragoza itundujia,heras hernandez gaudencio,18,amecafe,2012,7.25,7.25,7.08,7.33,7.25,7.17,10,10,10,7.17,80.5,0.15,0,0,others,1,1450,1450,1450,1,bluish-green,80.5,Typica,Washed / Wet
 honduras,marcala,jose omar acosta,275,instituto hondureño del café,2016,7.25,7.42,7,7.42,7.33,7,10,10,10,7,80.42,0.1,0,0,green,0,1450,1450,1450,69,green,80.42,,Other
@@ -1092,7 +1092,7 @@ burundi,mumirwa,sogestal mumirwa,300,kenya coffee traders association,2016,7.08,
 taiwan,taichung xinshe 台中市新社區,wu yi ting 吳伊婷,10,blossom valley international,2013,7.25,7.25,7.08,7.25,7.25,7.25,10,10,10,7,80.33,0.11,0,0,green,0,600,600,600,30,green,80.33,Yellow Bourbon,Other
 guatemala,oriente,agripec de la vega y cia.,250,asociacion nacional del café,2013,7.33,7.33,6.83,7.5,7,7.17,10,10,10,7.17,80.33,0.11,1,0,green,4,1310.64,1310.64,1310.64,69,green,80.33,Bourbon,Washed / Wet
 mexico,chilón,armando gutierrez guzman,10,amecafe,2012,7.25,7.08,7.08,7.33,7.33,7.17,10,10,10,7.08,80.33,0.11,0,0,green,21,940,940,940,1,green,80.33,Typica,Semi-washed / Semi-pulped
-united states (hawaii),kona,others,10,specialty coffee association,2012,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10,10,7.08,80.33,0.12,5,0,green,7,others,others,others,100,green,80.33,Hawaiian Kona,Washed / Wet
+united states (hawaii),kona,others,10,specialty coffee association,2012,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10,10,7.08,80.33,0.12,5,0,green,7,426.72,609.6,731.52,100,green,80.33,Hawaiian Kona,Washed / Wet
 ethiopia,kelem welega,exporter name | muluneh kaka | phone: 0114390290,360,ethiopia commodity exchange,2010,7.25,7.25,7.25,7.33,7.5,8,9.33,9.33,10,7.08,80.33,0.1,0,0,others,1,others,others,others,6,bluish-green,80.33,,Other
 brazil,cerrado - monte carmelo - minas gerais,luiz augusto pereira moguilod,440,brazil specialty coffee association,2017,7.17,7.33,7.42,7.08,7,7,10,10,10,7.25,80.25,0.11,0,1,green,1,995,995,995,59,green,80.25,Catuai,Natural / Dry
 honduras,comayagua,yamilet lope,275,instituto hondureño del café,2016,7.25,7.25,7,7,7.42,7,10,10,10,7.33,80.25,0.1,0,0,green,4,1400,1400,1400,69,green,80.25,Caturra,Natural / Dry
@@ -1100,7 +1100,7 @@ mexico,sierra madre occidental,balbino ramirez flores,60,centro agroecológico d
 myanmar,"yauk sauk, shan state","waylead co, ltd",2,specialty coffee association,2015,8,7.08,7,7.33,7.08,6.92,10,10,10,6.83,80.25,0.11,1,0,green,26,914.4,914.4,914.4,2,green,80.25,Other,Natural / Dry
 myanmar,ywar ngan,u htun htun,1,coffee quality institute,2014,7.42,7,7.08,7,7.17,7.33,10,10,10,7.25,80.25,0,0,0,green,1,4287,4287,4287,2,green,80.25,Catuai,Natural / Dry
 nicaragua,matagalpa,gloria antonieta escobar urrutia,275,asociación de cafés especiales de nicaragua,2015,7.08,6.92,7,7.25,7.5,7.25,10,10,10,7.25,80.25,0.11,0,0,green,2,900,900,900,69,green,80.25,Caturra,Washed / Wet
-united states (hawaii),kona,others,2,specialty coffee association,2014,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,7.33,80.25,0.12,4,0,green,13,others,others,others,100,green,80.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,2,specialty coffee association,2014,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,7.33,80.25,0.12,4,0,green,13,426.72,609.6,731.52,100,green,80.25,Hawaiian Kona,Natural / Dry
 colombia,others,others,1,specialty coffee association,2012,7.42,8,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,80.25,0.1,0,0,green,0,others,others,others,2,green,80.25,Typica,Washed / Wet
 taiwan,chiayi fanlu嘉義縣番路鄉,weng hui ling 翁惠鈴,5,blossom valley international,2013,7.25,7.08,7.25,7.25,7.17,7.25,10,10,10,7,80.25,0.11,0,0,green,0,700,700,700,30,green,80.25,Typica,Semi-washed / Semi-pulped
 guatemala,oriente,unex,250,specialty coffee association,2012,7,7.17,7.33,7.33,7,7.17,10,10,10,7.25,80.25,0.11,1,0,green,12,1400,1400,1400,1,green,80.25,Caturra,Washed / Wet
@@ -1113,7 +1113,7 @@ mexico,coatepec,pablo enrique martinez gama,20,amecafe,2012,7.33,7.08,6.92,7.42,
 mexico,zaragoza itundujia,cirilo jose jose,15,amecafe,2012,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,7.42,80.17,0.14,1,0,green,2,1550,1550,1550,1,green,80.17,Typica,Washed / Wet
 mexico,veracruz,marco virgilio ramirez teliz,15,amecafe,2012,7.33,7.33,7.17,7.08,7.25,7,10,10,10,7,80.17,0.12,0,0,green,12,1000,1000,1000,1,green,80.17,Bourbon,Washed / Wet
 guatemala,oriente,agropecuaria quiagral,250,asociacion nacional del café,2012,7.33,7.33,7,7.33,7,7,10,10,10,7.17,80.17,0.11,0,0,green,5,1310.64,1310.64,1310.64,1,green,80.17,Bourbon,Washed / Wet
-united states (hawaii),kona,others,22,specialty coffee association,others,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,7.42,80.17,0.05,12,0,others,1,others,others,others,100,bluish-green,80.17,,Other
+united states (hawaii),kona,others,22,specialty coffee association,others,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,7.42,80.17,0.05,12,0,others,1,426.72,609.6,731.52,100,bluish-green,80.17,,Other
 brazil,mantiqueira de minas,others,440,brazil specialty coffee association,2017,7.17,7.17,7,7.17,7.25,7.25,10,10,10,7.08,80.08,0.11,0,0,green,5,1100,1100,1100,60,green,80.08,Bourbon,Pulped natural / honey
 taiwan,苗栗泰安,簡義榮,10,blossom valley international,2014,7.42,7.25,7.25,7.17,7,7,10,10,10,7,80.08,0.07,0,0,green,0,850,850,850,60,green,80.08,Typica,Washed / Wet
 nicaragua,others,others,1,specialty coffee association,2013,7.25,7.17,6.92,7.25,7.17,7.25,10,10,10,7.08,80.08,0.1,0,0,green,4,others,others,others,5,green,80.08,,Natural / Dry
@@ -1131,19 +1131,19 @@ mexico,coatepec,pablo enrique martinez gama,20,amecafe,2012,7.25,7.25,7.08,7.17,
 mexico,san miguel del puerto,semiramis casas velazquez,256,amecafe,2012,7.08,7.33,7,7.33,7.08,7,10,10,10,7.17,80,0.11,0,0,green,12,1100,1100,1100,1,green,80,Other,Washed / Wet
 ethiopia,limu,contact name | ato teshome belamo,300,ethiopia commodity exchange,2010,7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,7.75,80,0.05,0,0,others,2,others,others,others,6,bluish-green,80,,Other
 colombia,huila,others,275,almacafé,2015,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10,10,7.42,79.92,0,0,0,green,1,others,others,others,2,green,79.92,,Washed / Wet
-united states (hawaii),kona,others,12,specialty coffee association,2014,7.5,7,7,6.92,7.33,7.17,10,10,10,7,79.92,0.11,1,0,green,3,others,others,others,100,green,79.92,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,12,specialty coffee association,2014,7.5,7,7,6.92,7.33,7.17,10,10,10,7,79.92,0.11,1,0,green,3,426.72,609.6,731.52,100,green,79.92,Hawaiian Kona,Natural / Dry
 mexico,chiapas,varios productores,400,amecafe,2013,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,7.17,79.92,0.12,0,0,green,4,1300,1300,1300,1,green,79.92,Bourbon,Washed / Wet
 mexico,"motozintla, chiapas",martha palacios,10,amecafe,2012,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,7,79.92,0.12,1,0,green,7,1100,1100,1100,1,green,79.92,Other,Washed / Wet
 mexico,veracruz,delmar moreno guillen,82,amecafe,2012,7.5,7.17,7,7.17,7.25,7.08,10,10,10,6.75,79.92,0,0,0,others,0,1100,1100,1100,1,bluish-green,79.92,Bourbon,Washed / Wet
 mexico,jaltenango,maria elena teresa fernandez ceja,250,amecafe,2012,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,7.33,79.92,0.11,0,0,green,3,1100,1100,1100,1,green,79.92,Catuai,Washed / Wet
 mexico,coatepec,pablo enrique martinez gama,100,amecafe,2012,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,7.25,79.92,0.12,0,0,green,6,1250,1250,1250,1,green,79.92,Typica,Natural / Dry
 mexico,veracruz,maria del rosario irais valdivia ortiz,209,amecafe,2012,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,7,79.92,0.11,0,0,green,0,1250,1250,1250,1,green,79.92,Mundo Novo,Washed / Wet
-united states (hawaii),kona,others,40,specialty coffee association,others,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10,7.58,79.92,0.05,3,0,others,0,others,others,others,100,bluish-green,79.92,,Other
+united states (hawaii),kona,others,40,specialty coffee association,others,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10,7.58,79.92,0.05,3,0,others,0,426.72,609.6,731.52,100,bluish-green,79.92,,Other
 kenya,kiambu,yara / benvar,200,kenya coffee traders association,2017,7,7.08,7,7.17,7.25,7.25,10,10,10,7.08,79.83,0.11,0,1,others,5,1500,1500,1500,12000,bluish-green,79.83,SL34,Washed / Wet
 guatemala,san marcos,jorge leal,50,asociacion nacional del café,2017,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,7.08,79.83,0.1,0,0,green,2,1700,1700,1700,69,green,79.83,Bourbon,Washed / Wet
 nicaragua,jinotega,asociación aldea global jinotega,75,asociación de cafés especiales de nicaragua,2014,6.83,7.17,7.17,6.92,7.5,7.08,10,10,10,7.17,79.83,0.11,0,0,green,0,1250,1250,1250,2,green,79.83,Caturra,Washed / Wet
 mexico,veracruz,ciro de la vequia cessa,250,amecafe,2012,7.17,7.08,7,7.25,7.5,7,10,10,10,6.83,79.83,0.12,0,0,green,3,1300,1300,1300,1,green,79.83,Typica,Washed / Wet
-united states (hawaii),kona,others,12,specialty coffee association,2012,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10,10,7.17,79.83,0.12,7,0,bluish-green,10,others,others,others,100,bluish-green,79.83,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,12,specialty coffee association,2012,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10,10,7.17,79.83,0.12,7,0,bluish-green,10,426.72,609.6,731.52,100,bluish-green,79.83,Hawaiian Kona,Natural / Dry
 guatemala,oriente,"agricola el pilar, s.a.",25,asociacion nacional del café,2016,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,79.75,0.1,0,4,green,1,190164,190164,190164,69,green,79.75,Bourbon,Washed / Wet
 taiwan,"taiwu township , pingtung county 屏東縣泰武鄉",wei-chieh ( jack ) hua,28,specialty coffee association,2014,7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,7.33,79.75,0,0,0,others,0,800,1200,1000,50,bluish-green,79.75,Typica,Natural / Dry
 taiwan,"baihe dist., tainan city 臺南市白河區",lin ren fu 林人富,50,specialty coffee association,2013,7.08,7.08,7.25,7,7.17,7.17,10,10,10,7,79.75,0.1,0,0,bluish-green,0,500,700,600,20,bluish-green,79.75,Typica,Washed / Wet
@@ -1207,7 +1207,7 @@ mexico,amatenango de la frontera,juan avenamar rodriguez funez,120,amecafe,2012,
 mexico,"la concordia, chiapas",agroindustrias unidas de mexico sa de cv,250,amecafe,2013,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,7,78.92,0.12,0,0,green,8,1300,1300,1300,1,green,78.92,Typica,Washed / Wet
 mexico,zaragoza itundujia,luisa zuñiga garcía,14,amecafe,2012,7.5,7,6.92,7.08,6.92,6.75,10,10,10,6.75,78.92,0.16,0,0,others,0,1400,1400,1400,1,bluish-green,78.92,Typica,Washed / Wet
 nicaragua,jalapa,teófilo narváez,1,instituto hondureño del café,2016,7.17,7,6.92,7,7,7,10,10,10,6.75,78.83,0.1,0,2,green,4,1100,1100,1100,1,green,78.83,Caturra,Other
-united states (hawaii),kona,others,11,specialty coffee association,2013,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,7.17,78.75,0.12,5,0,green,8,others,others,others,2,green,78.75,,Natural / Dry
+united states (hawaii),kona,others,11,specialty coffee association,2013,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,7.17,78.75,0.12,5,0,green,8,426.72,609.6,731.52,2,green,78.75,,Natural / Dry
 guatemala,oriente,agripec de la vega y cia.,250,asociacion nacional del café,2013,7.33,7.08,6.33,7.25,7,7,10,10,10,6.75,78.75,0.12,1,0,green,8,1310.64,1310.64,1310.64,69,green,78.75,Bourbon,Washed / Wet
 mexico,veracruz,"jose vazquez canton, jose antonio jimenez gonzalez, ireneo garcia valdivia",20,amecafe,2012,7.25,6.83,6.83,7,7.17,7,10,10,10,6.67,78.75,0.14,0,0,green,0,1320,1320,1320,1,green,78.75,Typica,Washed / Wet
 mexico,veracruz,damaso martinez perez,35,amecafe,2012,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,7,78.75,0.14,0,0,others,0,1250,1250,1250,1,bluish-green,78.75,Typica,Semi-washed / Semi-pulped
@@ -1220,24 +1220,24 @@ guatemala,oriente,varios,250,asociacion nacional del café,2014,7.33,7.17,6.92,7
 taiwan,"dongshan dist., tainan city 臺南市東山區",guo jiun hung 郭俊宏 & tseng ru feng 曾如楓,50,specialty coffee association,2013,6.83,6.75,7.17,7.25,7,6.92,10,10,10,6.67,78.58,0.1,0,0,green,0,800,800,800,20,green,78.58,Typica,Washed / Wet
 mexico,tapachula,epifanio garcia de miguel,250,amecafe,2012,7,7,6.75,7.33,6.92,6.92,10,10,10,6.67,78.58,0.13,0,0,green,1,1400,1400,1400,1,green,78.58,Typica,Washed / Wet
 mexico,cofradia de suchitlan,"j. carmen guzman concepcion, ignacio ramirez barajas, dionicio garcia ramirez",50,amecafe,2012,7.92,7.58,7.58,7.92,7.92,7.5,8,6.67,10,7.5,78.58,0.1,0,0,others,1,1300,1300,1300,1,bluish-green,78.58,Typica,Washed / Wet
-united states (hawaii),kona,others,8,specialty coffee association,others,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10,7.25,78.58,0,0,0,others,0,others,others,others,100,bluish-green,78.58,,Other
+united states (hawaii),kona,others,8,specialty coffee association,others,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10,7.25,78.58,0,0,0,others,0,426.72,609.6,731.52,100,bluish-green,78.58,,Other
 mexico,"sierra, chiapas",various small producers,280,specialty coffee association,2014,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,7.17,78.5,0,0,0,green,0,1600,1600,1600,69,green,78.5,Bourbon,Washed / Wet
 mexico,villa talea de castro,reynaldo olivera rios,10,amecafe,2012,7.08,6.83,6.83,7,7,6.92,10,10,10,6.83,78.5,0.12,0,0,others,14,1400,1400,1400,1,bluish-green,78.5,Typica,Washed / Wet
 mexico,los angeles,francisco ruiz nuñez,20,amecafe,2012,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,6.92,78.5,0.13,1,0,green,3,1200,1200,1200,1,green,78.5,Caturra,Washed / Wet
 brazil,monte carmelo,manoel cardoso and galileo cardoso,300,brazil specialty coffee association,2014,6.83,7,6.92,7.08,6.92,6.83,10,10,10,6.83,78.42,0.12,3,0,green,4,others,others,others,60,green,78.42,Catuai,Natural / Dry
 mexico,zaragoza itundujia,lamberto josé garcía,10,amecafe,2012,7.58,7.17,7,7.17,7.33,7,8,10,10,7.17,78.42,0.14,0,0,others,0,1500,1500,1500,1,bluish-green,78.42,Typica,Washed / Wet
-united states (hawaii),kona,others,5,specialty coffee association,2014,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8,8.67,7.83,78.33,0.1,0,0,bluish-green,0,others,others,others,100,bluish-green,78.33,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,5,specialty coffee association,2014,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8,8.67,7.83,78.33,0.1,0,0,bluish-green,0,426.72,609.6,731.52,100,bluish-green,78.33,Hawaiian Kona,Natural / Dry
 guatemala,oriente,varios,275,asociacion nacional del café,2014,7.17,6.5,6.67,7,7.17,7.17,10,10,10,6.67,78.33,0.1,0,0,green,2,1219.2,1219.2,1219.2,69,green,78.33,Other,Washed / Wet
 guatemala,oriente,luis rodriguez,250,asociacion nacional del café,2012,7.17,7.17,6.5,7.17,7,6.83,10,10,10,6.5,78.33,0.11,1,0,green,4,1310.64,1310.64,1310.64,1,green,78.33,Bourbon,Washed / Wet
 mexico,"xochitonalco, huautla        ",pablo cervantes morelos        ,100,amecafe,2012,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,7.75,78.33,0.13,31,0,green,47,1300,1300,1300,1,green,78.33,Typica,Natural / Dry
 guatemala,oriente,conquista/ morito,250,asociacion nacional del café,2012,7.17,6.08,6.17,7.25,7.33,7.33,10,10,10,7,78.33,0.11,0,0,green,9,others,others,others,1,green,78.33,Bourbon,Washed / Wet
-united states (hawaii),kona,others,18,specialty coffee association,2014,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,7.42,78.25,0.11,2,0,green,8,others,others,others,100,green,78.25,Hawaiian Kona,Natural / Dry
-united states (hawaii),kona,others,5,specialty coffee association,2012,7.42,7.33,7.33,7.5,7.67,7.75,8,8.67,9.33,7.25,78.25,0.11,4,0,green,31,others,others,others,100,green,78.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,18,specialty coffee association,2014,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,7.42,78.25,0.11,2,0,green,8,426.72,609.6,731.52,100,green,78.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,5,specialty coffee association,2012,7.42,7.33,7.33,7.5,7.67,7.75,8,8.67,9.33,7.25,78.25,0.11,4,0,green,31,426.72,609.6,731.52,100,green,78.25,Hawaiian Kona,Natural / Dry
 indonesia,ijen,vary farms,2,specialty coffee association of indonesia,2016,6.92,6.83,6.92,6.92,6.92,6.83,10,10,10,6.83,78.17,0.13,0,0,others,1,1300,1300,1300,1,bluish-green,78.17,Java,Washed / Wet
 mexico,cordoba,consuelo gonzalez gomez,320,amecafe,2012,7.08,6.83,6.67,7.25,7.25,6.92,10,9.33,10,6.75,78.08,0.11,0,0,green,3,1050,1050,1050,1,green,78.08,Typica,Washed / Wet
 taiwan,"台南市東山區( dongshan dist., tainan city)","林俊吉( lin, chun-chi)",8,specialty coffee association,2016,7.5,7.08,7.33,7.17,7.5,7.5,6.67,10,10,7.25,78,0,3,0,green,4,650,650,650,10,green,78,Yellow Bourbon,Washed / Wet
 honduras,intibuca,cooperativa coaquil,275,instituto hondureño del café,2014,6.83,7,6.67,7,7,6.83,10,10,10,6.67,78,0.11,2,0,green,6,1350,1350,1350,2,green,78,Pacas,Natural / Dry
-united states (hawaii),kona,others,5,specialty coffee association,2014,7.58,7.33,7.5,7.42,7.5,7.33,8,8.67,9.33,7.33,78,0.12,2,0,green,3,others,others,others,100,green,78,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,5,specialty coffee association,2014,7.58,7.33,7.5,7.42,7.5,7.33,8,8.67,9.33,7.33,78,0.12,2,0,green,3,426.72,609.6,731.52,100,green,78,Hawaiian Kona,Natural / Dry
 guatemala,oriente,varios,275,asociacion nacional del café,2014,7.42,7.25,6.83,7.33,7,6.92,9.33,9.33,9.33,7.25,78,0.1,1,0,green,2,1219.2,1219.2,1219.2,69,green,78,Other,Washed / Wet
 china,yunnan,greenhouse coffee,16,specialty coffee association,2013,7.33,7.17,6.92,7.08,7.33,7,9.33,9.33,9.33,7.17,78,0.1,0,0,green,28,1200,1200,1200,2,green,78,Typica,Washed / Wet
 guatemala,oriente,"agricola monte verde, s.a.",250,asociacion nacional del café,2013,7,6.83,6.83,7.17,6.67,6.83,10,10,10,6.67,78,0.11,3,0,green,9,1310.64,1310.64,1310.64,69,green,78,Bourbon,Washed / Wet
@@ -1250,14 +1250,14 @@ nicaragua,jinotega,marcio alberto rivera castellon,275,specialty coffee associat
 brazil,others,others,1,specialty coffee association,2014,7,6.75,6.67,6.83,7.08,6.83,10,10,10,6.67,77.83,0.11,0,0,others,2,others,others,others,5,bluish-green,77.83,,Washed / Wet
 guatemala,oriente,luis rodriguez,250,asociacion nacional del café,2013,7,6.83,6.67,7.17,6.83,6.83,10,10,10,6.5,77.83,0.11,0,0,green,2,1310.64,1310.64,1310.64,1,green,77.83,Bourbon,Washed / Wet
 taiwan,"dongshan dist., tainan city 臺南市東山區",chen shuei lian 陳水連,100,specialty coffee association,2012,7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10,6.67,77.67,0.11,0,0,bluish-green,0,750,800,775,10,bluish-green,77.67,Typica,Washed / Wet
-united states (hawaii),kona,others,5,specialty coffee association,2013,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6,7.58,77.58,0.12,1,0,green,5,others,others,others,100,green,77.58,,Natural / Dry
+united states (hawaii),kona,others,5,specialty coffee association,2013,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6,7.58,77.58,0.12,1,0,green,5,426.72,609.6,731.52,100,green,77.58,,Natural / Dry
 mexico,coatepec,rubria ochoa bello,23,amecafe,2012,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,6.67,77.5,0.13,0,0,green,3,1300,1300,1300,1,green,77.5,Typica,Washed / Wet
 guatemala,oriente,margarita de nuyens y/o carlos nuyens,250,asociacion nacional del café,2013,7.08,6.92,6.33,7,6.92,7,10,10,10,6.17,77.42,0.11,2,0,green,15,1310.64,1310.64,1310.64,1,green,77.42,Bourbon,Washed / Wet
 brazil,south of minas,ipanema agricola s.a,320,brazil specialty coffee association,2017,7.5,7.33,7.42,7.58,7.58,6.92,8,8,10,7,77.33,0,0,0,green,3,890,890,890,60,green,77.33,Bourbon,Natural / Dry
 guatemala,oriente,varios,275,asociacion nacional del café,2014,7.33,7,6.83,7.17,7.17,7.17,9.33,9.33,9.33,6.67,77.33,0.1,1,0,green,2,1219.2,1219.2,1219.2,69,green,77.33,Other,Washed / Wet
 mexico,zaragoza itundujia,aquilino garcía riaño,10,amecafe,2012,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,6.83,77.33,0.15,4,0,others,5,1500,1500,1500,1,bluish-green,77.33,Typica,Washed / Wet
 haiti,"dondon, haiti",mixed,1,specialty coffee association,2013,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10,10,6.83,77.25,0.1,0,0,others,1,400,1250,825,4,bluish-green,77.25,Typica,Washed / Wet
-united states (hawaii),kona,kona pacific farmers cooperative,9,specialty coffee association,2013,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10,6.75,77.25,0.12,1,0,green,5,others,others,others,2,green,77.25,,Natural / Dry
+united states (hawaii),kona,kona pacific farmers cooperative,9,specialty coffee association,2013,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10,6.75,77.25,0.12,1,0,green,5,426.72,609.6,731.52,2,green,77.25,,Natural / Dry
 mexico,"motozintla, chiapas",alejandro garcía palacios,10,amecafe,2012,7.08,7,7,7.25,7.33,7.25,8.67,8.67,10,6.92,77.17,0.12,1,0,green,11,1200,1200,1200,1,green,77.17,Other,Washed / Wet
 peru,san ignacio,sol y cafe,275,specialty coffee association,2014,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,77,0,7,0,green,9,900,1500,1200,2,green,77,Caturra,Washed / Wet
 india,chickmangalore,aspinwall & co. ltd,20,specialty coffee association,2016,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10,6.67,7.42,76.83,0,0,7,green,0,others,others,others,50,green,76.83,,Natural / Dry
@@ -1266,8 +1266,8 @@ guatemala,oriente,conquista/morito,250,asociacion nacional del café,2012,6.42,6
 mexico,coatepec,castulo gutierrez,10,amecafe,2012,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,6.58,76.42,0.13,0,0,green,14,1100,1100,1100,1,green,76.42,Typica,Washed / Wet
 guatemala,oriente,agropecuaria quiagral,250,asociacion nacional del café,2012,7.5,7,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7,76.33,0.11,0,0,green,8,1310.64,1310.64,1310.64,69,green,76.33,Bourbon,Washed / Wet
 guatemala,oriente,conquista/morito,250,asociacion nacional del café,2011,6.17,6.5,6.5,7.17,7,6.83,10,10,10,6.17,76.33,0.11,0,0,others,5,others,others,others,2,bluish-green,76.33,Bourbon,Washed / Wet
-united states (hawaii),kona,others,2,specialty coffee association,2014,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,7.08,76.25,0,0,0,green,0,others,others,others,100,green,76.25,Hawaiian Kona,Natural / Dry
-united states (hawaii),kona,kona pacific farmers cooperative,6,specialty coffee association,2013,7.5,7.33,7.33,7.58,7.67,7.25,8,8,8,7.5,76.17,0,0,0,bluish-green,3,others,others,others,100,bluish-green,76.17,,Natural / Dry
+united states (hawaii),kona,others,2,specialty coffee association,2014,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,7.08,76.25,0,0,0,green,0,426.72,609.6,731.52,100,green,76.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,kona pacific farmers cooperative,6,specialty coffee association,2013,7.5,7.33,7.33,7.58,7.67,7.25,8,8,8,7.5,76.17,0,0,0,bluish-green,3,426.72,609.6,731.52,100,bluish-green,76.17,,Natural / Dry
 mexico,zaragoza itundujia,isidora heras hernandez,11,amecafe,2012,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,6.75,76.17,0.16,2,0,others,4,1400,1400,1400,1,bluish-green,76.17,Typica,Washed / Wet
 indonesia,indonesia,1,15,specialty coffee association,2011,7.33,7,6.5,6.08,7.58,6.33,9.33,10,9.33,6.67,76.17,0.12,4,0,others,26,3500,3500,3500,2,bluish-green,76.17,Other,Natural / Dry
 mexico,tepictla,guillermo eduardo bobadilla muguira,20,amecafe,2012,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,6.58,76.08,0.12,0,0,green,12,1250,1250,1250,1,green,76.08,Bourbon,Washed / Wet
@@ -1286,17 +1286,17 @@ mexico,coatepec,pablo enrique martinez gama,20,amecafe,2012,7.33,6.75,6.67,7.25,
 guatemala,oriente,conquista / morito,250,asociacion nacional del café,2012,6.75,6.5,6.17,7,7.25,6.75,8,10,10,6.33,74.75,0.11,0,0,others,8,others,others,others,1,bluish-green,74.75,Bourbon,Washed / Wet
 guatemala,oriente,conquista/morito,250,asociacion nacional del café,2012,6.75,6.67,6.17,7.17,7,6.58,8,10,10,6.42,74.75,0.11,0,0,others,10,others,others,others,1,bluish-green,74.75,Bourbon,Washed / Wet
 mexico,chiapas,cesmach (varios),275,amecafe,2013,7.08,7,6.83,7.5,7.33,6.83,8,7.33,10,6.75,74.67,0.12,0,0,green,7,1700,1700,1700,1,green,74.67,Typica,Washed / Wet
-united states (hawaii),kona,others,3,specialty coffee association,2014,7.5,7.25,7,7.25,7.42,7.33,8,8.67,6.67,7.33,74.42,0,1,0,bluish-green,2,others,others,others,100,bluish-green,74.42,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,3,specialty coffee association,2014,7.5,7.25,7,7.25,7.42,7.33,8,8.67,6.67,7.33,74.42,0,1,0,bluish-green,2,426.72,609.6,731.52,100,bluish-green,74.42,Hawaiian Kona,Natural / Dry
 guatemala,oriente,agripec de la vega y cia.,250,asociacion nacional del café,2013,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10,8.67,6,74.33,0.11,1,0,green,1,1310.64,1310.64,1310.64,69,green,74.33,Bourbon,Washed / Wet
 mexico,"chocaman, veracruz",jorge octavio escamilla prado,20,amecafe,2012,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,6.67,74.33,0.14,3,0,green,11,1140,1140,1140,1,green,74.33,Typica,Washed / Wet
 mexico,xalapa,myrna roxana gálvez gonzález,100,amecafe,2012,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,6.5,74,0.13,0,0,others,27,1200,1200,1200,1,bluish-green,74,Typica,Washed / Wet
 mexico,coatepec,eugene holman pew,20,amecafe,2012,7.67,7,7.17,7.58,7.33,7.33,10,2.67,10,7.08,73.83,0.12,0,0,green,19,1250,1250,1250,1,green,73.83,Typica,Washed / Wet
-united states (hawaii),kona,others,22,specialty coffee association,2012,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,7.33,73.67,0,9,0,others,17,others,others,others,100,bluish-green,73.67,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,22,specialty coffee association,2012,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,7.33,73.67,0,9,0,others,17,426.72,609.6,731.52,100,bluish-green,73.67,Hawaiian Kona,Natural / Dry
 brazil,campos altos - cerrado,others,300,brazil specialty coffee association,2016,7.25,6.58,6.58,7,7,6.42,8,8,10,6.67,73.5,0.11,0,1,green,0,others,others,others,60,green,73.5,,Other
 honduras,intibuca,cooperativa coaquil,275,instituto hondureño del café,2014,7,7.17,6.83,7.17,7,7.17,8,8,8,7.08,73.42,0.11,1,0,green,16,1350,1350,1350,2,green,73.42,Pacas,Washed / Wet
 mexico,sierra alta mixe y zapoteca,various small producers,280,specialty coffee association,2014,7.08,7.08,6.92,7.08,6.92,6.92,8,8,8,6.92,72.92,0,1,0,others,1,1200,1200,1200,69,bluish-green,72.92,Typica,Washed / Wet
 colombia,others,others,1,specialty coffee association,2013,8,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,72.83,0,0,0,bluish-green,15,others,others,others,5,bluish-green,72.83,,Natural / Dry
-united states (hawaii),kona,others,11,specialty coffee association,2014,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,6.92,72.58,0.11,5,0,green,9,others,others,others,100,green,72.58,Hawaiian Kona,Natural / Dry
+united states (hawaii),kona,others,11,specialty coffee association,2014,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,6.92,72.58,0.11,5,0,green,9,426.72,609.6,731.52,100,green,72.58,Hawaiian Kona,Natural / Dry
 haiti,marmelade,asosyasyon plantè kafe krètapen (apcap) ;asosyasyon plantè kafe basen (apkba);asosyasyon plantè kafe,85,specialty coffee association,2010,6.92,6.75,7.08,7.17,7.33,6.67,10,5.33,8.67,6.42,72.33,0.08,1,0,others,0,640,1400,1020,130,bluish-green,72.33,,Other
 costa rica,occidental,beneficio la eva s.a.,250,specialty coffee association of costa rica,2014,6.33,6.5,6.33,6.83,6.33,6.5,10,6.67,10,6.25,71.75,0.11,0,0,green,7,1200,1200,1200,1,green,71.75,Caturra,Washed / Wet
 mexico,tlatlauquitepec,josé armando norberto borzani lemini,10,amecafe,2012,6.92,6.92,6.92,6.92,7.17,7,10,2.67,10,6.58,71.08,0.12,4,0,green,24,800,800,800,1,green,71.08,Mundo Novo,Washed / Wet
